@@ -1,0 +1,123 @@
+S6_0001 The two artists exchanged autographs.
+S6_0002 Rock-and-roll music has a great rhythm.
+S6_0003 I’d rather not buy these shoes than be overcharged.
+S6_0004 Shaving cream is a popular item on Halloween.
+S6_0005 Amoebas change shape constantly.
+S6_0006 We like blue cheese but Victor likes brie.
+S6_0007 Tofu is made from processed soybeans.
+S6_0008 The bluejay flew over the high building.
+S6_0009 Cheap stockings run the first time they’re worn.
+S6_0010 Cottage cheese with chives is delicious.
+S6_0011 A chosen few will become Generals.
+S6_0012 The meeting is now adjourned.
+S6_0013 Shipbuilding is a most fascinating process.
+S6_0014 The proof that you are seeking is not available in books.
+S6_0015 The hood of the jeep was steaming in the hot sun.
+S6_0016 My desires are simple: give me one informative paragraph on the subject.
+S6_0017 Those answers will be straightforward if you think them through carefully first.
+S6_0018 Drop five forms in the box before you go out.
+S6_0019 If people were more generous, there would be no need for welfare.
+S6_0020 Bob found more clams at the ocean’s edge.
+S6_0021 That dog chases cats mercilessly.
+S6_0022 The cranberry bog gets very pretty in Autumn.
+S6_0023 Please dig my potatoes up before the frost.
+S6_0024 A big goat idly ambled through the farmyard.
+S6_0025 The nearest synagogue may not be within walking distance.
+S6_0026 The groundhog clearly saw his shadow, but stayed out only a moment.
+S6_0027 A leather handbag would be a suitable gift.
+S6_0028 The fog prevented them from arriving on time.
+S6_0029 The local drugstore was charged with illegally dispensing tranquilizers.
+S6_0030 The full moon shone brightly that night.
+S6_0031 Steve collects rare and novel coins.
+S6_0032 Al received a joint appointment in the biology and the engineering departments.
+S6_0033 Gregory and Tom chose to watch cartoons in the afternoon.
+S6_0034 Chip postponed alimony payments until the latest possible date.
+S6_0035 Count the number of teaspoons of soysauce that you add.
+S6_0036 The big dog loved to chew on the old rag doll.
+S6_0037 Todd placed top priority on getting his bike fixed.
+S6_0038 An adult male baboon’s teeth are not suitable for eating shellfish.
+S6_0039 Often you’ll get back more than you put in.
+S6_0040 Gus saw pine trees and redwoods on his walk through Sequoia National Forest.
+S6_0041 Rob made Hungarian goulash for dinner and gooseberry pie for dessert.
+S6_0042 Bob bandaged both wounds with the skill of a doctor.
+S6_0043 The dark, murky lagoon wound around for miles.
+S6_0044 Did Shawn catch that big goose without help?
+S6_0045 Ducks have webbed feet and colorful feathers.
+S6_0046 The high security prison was surrounded by barbed wire.
+S6_0047 Take charge of choosing her bride’s maids’ gowns.
+S6_0048 The frightened child was gently subdued by his big brother.
+S6_0049 I know I didn’t meet her early enough.
+S6_0050 Trish saw hours and hours of movies this Saturday.
+S6_0051 The barracuda recoiled from the serpent’s poisonous fangs.
+S6_0052 The patient and the surgeon are both recuperating from the lengthy operation.
+S6_0053 I’ll have a scoop of that exotic purple and turquoise sherbet.
+S6_0054 The preschooler couldn’t verbalize her feelings about the emergency conditions.
+S6_0055 Many wealthy tycoons splurged and bought both a yacht and a schooner.
+S6_0056 The new suburbanites worked hard on refurbishing their older home.
+S6_0057 According to my interpretation of the problem, two lines must be perpendicular.
+S6_0058 A connoisseur will enjoy this shellfish dish.
+S6_0059 A lawyer was appointed to execute her will.
+S6_0060 Dolphins are intelligent marine mammals.
+S6_0061 She defeated and triumphed over the invaders.
+S6_0062 We have social strengths.
+S6_0063 The moon is eclipsed.
+S6_0064 From the depths of the well I had discovered a light above.
+S6_0065 Daniel began to talk.
+S6_0066 The janitors are chatting in the room.
+S6_0067 The fishing shanty sank below the ice.
+S6_0068 That man is Nancy’s father.
+S6_0069 See you soon in Japan, Randy.
+S6_0070 Let’s go and eat at Chuckwagon again.
+S6_0071 He was born on May the 10th.
+S6_0072 The water is boiling.
+S6_0073 He works in the ticket office.
+S6_0074 He is a good pitcher.
+S6_0075 I see a dogfish lying on the kitchen table.
+S6_0076 Brown put the pussy Outdoors.
+S6_0077 I am fond of cooking.
+S6_0078 get rid of them
+S6_0079 take care of themselves
+S6_0080 out of many
+S6_0081 by taxi
+S6_0082 with pleasure
+S6_0083 The little girl behaved naturally.
+S6_0084 The little girl behaved, naturally.
+S6_0085 That’s from my brother who lives in London.
+S6_0086 That’s from my brother, who lives in London.
+S6_0087 I don’t know Miss Brown.
+S6_0088 I don’t know, Miss Brown.
+S6_0089 How couldn’t you remember?
+S6_0090 I should go.
+S6_0091 Who knows?
+S6_0092 He drank, he stole, he was soon despised.
+S6_0093 Could I have my drink now, please?
+S6_0094 I left the students at prayer time.
+S6_0095 You left them at what time?
+S6_0096 Legumes are a good source of vitamins.
+S6_0097 Is this elevator going up?
+S6_0098 Is this elevator going up or down?
+S6_0099 You were informed of the fact on what day?
+S6_0100 Well, what about Fred? What did he do to the beans?
+S6_0101 Fred ate them.
+S6_0102 I know who cooked the beans. But then, who ate them?
+S6_0103 Fred ate the beans.
+S6_0104 I know what Fred cooked. But then, what did he eat?
+S6_0105 Fred ate the beans.
+S6_0106 Well, what about the beans? What did Fred do with them?
+S6_0107 Fred ate the beans.
+S6_0108 Why not?
+S6_0109 Why won’t you wait?
+S6_0110 Why won’t you wait until Friday?
+S6_0111 Why won’t you wait until Friday when he’s back?
+S6_0112 See you later.
+S6_0113 See you tomorrow.
+S6_0114 See you in the evening.
+S6_0115 See you in the afternoon.
+S6_0116 Let’s invite them to the party.
+S6_0117 Bill’s not sure if he can afford it.
+S6_0118 He told me that there was an accident.
+S6_0119 I really think that it was a very good idea.
+S6_0120 I think he wants it.
+S6_0121 I think he wants to leave.
+S6_0122 I think that he wants us to leave.
+S6_0123 I think that he wants Mary and Nancy to leave for school.

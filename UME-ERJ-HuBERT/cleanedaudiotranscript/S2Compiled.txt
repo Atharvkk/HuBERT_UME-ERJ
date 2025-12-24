@@ -1,0 +1,123 @@
+S2_0001 Chocolate and roses never fail as a romantic gift.
+S2_0002 Any contributions will be greatly appreciated.
+S2_0003 Continental drift is a geological theory.
+S2_0004 Regular attendance is seldom required.
+S2_0005 Challenge each general’s intelligence.
+S2_0006 We got drenched from the uninterrupted rain.
+S2_0007 Last year’s gas shortage caused steep price increases.
+S2_0008 Upgrade your status to reflect your wealth.
+S2_0009 Eat your raisins outdoors on the porch steps.
+S2_0010 Did you eat lunch yesterday?
+S2_0011 Porcupines resemble sea urchins.
+S2_0012 Spring Street is straight ahead.
+S2_0013 Cliff’s display was misplaced on the screen.
+S2_0014 An official deadline cannot be postponed.
+S2_0015 Fill that canteen with fresh spring water.
+S2_0016 Gently place Jim’s foam sculpture in the box.
+S2_0017 Bagpipes and bongos are musical instruments.
+S2_0018 Doctors prescribe drugs too freely.
+S2_0019 Will you please describe the idiotic predicament.
+S2_0020 It’s illegal to postdate a check.
+S2_0021 It’s impossible to deal with bureaucracy.
+S2_0022 Good service should be rewarded by big tips.
+S2_0023 My instructions desperately need updating.
+S2_0024 Cooperation along with understanding alleviate dispute.
+S2_0025 Cement is measured in cubic yards.
+S2_0026 Hispanic costumes are quite colorful.
+S2_0027 Primitive tribes have an upbeat attitude.
+S2_0028 Flying standby can be practical if you want to save money.
+S2_0029 It’s hard to tell an original from a forgery.
+S2_0030 The Thinker is a famous sculpture.
+S2_0031 The misprint provoked an immediate disclaimer.
+S2_0032 A large household needs lots of appliances.
+S2_0033 Cut a small corner off each edge.
+S2_0034 Youngsters love corn candy as a treat.
+S2_0035 Iguanas and alligators are tropical reptiles.
+S2_0036 Masquerade parties tax one’s imagination.
+S2_0037 Glucose and fructose are natural sugars found in fruit.
+S2_0038 Penguins live near the icy Antarctic.
+S2_0039 Guess the question from the answer.
+S2_0040 Medieval society was based on hierarchies.
+S2_0041 Project development was proceeding too slowly.
+S2_0042 Kindergarten children decorate their classrooms for all holidays.
+S2_0043 Special task forces rescue hostages from kidnappers.
+S2_0044 Call an ambulance for medical assistance.
+S2_0045 He stole a dime from a beggar.
+S2_0046 Few people live to be a hundred.
+S2_0047 You must explicitly delete files.
+S2_0048 A huge tapestry hung in her hallway.
+S2_0049 Birthday parties have cupcakes and ice cream.
+S2_0050 His scalp was blistered from today’s hot sun.
+S2_0051 She slipped and sprained her ankle on the steep slope.
+S2_0052 The best way to learn is to solve extra problems.
+S2_0053 His sudden departure shocked the cast.
+S2_0054 Tugboats are capable of hauling huge loads.
+S2_0055 A muscular abdomen is good for your back.
+S2_0056 The cartoon features a muskrat and a tadpole.
+S2_0057 The emblem depicts the Acropolis all aglow.
+S2_0058 Clasp the screw in your left hand.
+S2_0059 The mango and the papaya are in a bowl.
+S2_0060 Combine all the ingredients in a large bowl.
+S2_0061 There is no sixth sense in addition to the five enumerated—sight, hearing, smell, taste, and touch.
+S2_0062 In the sixth century the business of bookmaking had fallen into hopeless decay.
+S2_0063 I was utterly squelched.
+S2_0064 It is man who yields to pleasure.
+S2_0065 The children are sitting on a muddy road.
+S2_0066 This snake is called "spotted adder".
+S2_0067 The carpets brought from Brussels are missing.
+S2_0068 I see some mushrooms in all the dishes.
+S2_0069 They are running fast.
+S2_0070 His name is quite common.
+S2_0071 This top is a good spinner.
+S2_0072 Father is trimming the hedge.
+S2_0073 I like American food very much.
+S2_0074 Two large birds are bathing in the water.
+S2_0075 These flower-vases are quite expensive.
+S2_0076 This is thick and that is thin.
+S2_0077 get rid of them
+S2_0078 take care of themselves
+S2_0079 out of many
+S2_0080 by taxi
+S2_0081 with pleasure
+S2_0082 Did you study Nelson?
+S2_0083 Did you study, Nelson?
+S2_0084 I don’t know him personally.
+S2_0085 I don’t know him, personally.
+S2_0086 The superintendent says the teacher is a fool.
+S2_0087 The superintendent, says the teacher, is a fool.
+S2_0088 I saw her this morning and invited her to dinner.
+S2_0089 How can I help it?
+S2_0090 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen. There are fifteen.
+S2_0091 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen. There are fifteen.
+S2_0092 Please give us your name first.
+S2_0093 My name is Emily.
+S2_0094 Did John resign or retire?
+S2_0095 Did John resign or retire?
+S2_0096 She knows you, doesn’t she?
+S2_0097 Have you locked the front door?
+S2_0098 It’s wonderful weather, isn’t it?
+S2_0099 Isn’t it wonderful weather!
+S2_0100 Well, what about Fred? What did he do to the beans?
+S2_0101 Fred ate them.
+S2_0102 I know who cooked the beans. But then, who ate them?
+S2_0103 Fred ate the beans.
+S2_0104 I know what Fred cooked. But then, what did he eat?
+S2_0105 Fred ate the beans.
+S2_0106 Well, what about the beans? What did Fred do with them?
+S2_0107 Fred ate the beans.
+S2_0108 Thank you.
+S2_0109 Thank you very much.
+S2_0110 Thank you very much for everything.
+S2_0111 Thank you very much for everything that you did for us.
+S2_0112 I think he wants it.
+S2_0113 I think he wants to leave.
+S2_0114 I think that he wants us to leave.
+S2_0115 I think that he wants Mary and Nancy to leave for school.
+S2_0116 Becky drank beer.
+S2_0117 Becky has drunk some beer.
+S2_0118 Becky will be drinking lots of beer.
+S2_0119 Becky will be cheerfully drinking lots of beer after the party.
+S2_0120 The cherry blossoms in the park will soon come out.
+S2_0121 My major is business administration.
+S2_0122 I will start work at nine and get off at six.
+S2_0123 I left my camera in the restaurant the day before yesterday.
