@@ -1,123 +1,123 @@
-S7_0001 Diane may splurge and buy a turquoise necklace.
-S7_0002 The moisture in my eyes is from eyedrops, not from tears.
-S7_0003 George seldom watches daytime movies.
-S7_0004 The system may break down soon, so save your files frequently.
-S7_0005 I assume moisture will damage this ship’s hull.
-S7_0006 The speech symposium might begin on Monday.
-S7_0007 The annoying raccoons slipped into Phil’s garden every night.
-S7_0008 The cow wandered from the farmland and became lost.
-S7_0009 Each untimely income loss coincided with the breakdown of a heating system part.
-S7_0010 The gunman kept his victim cornered at gunpoint for three hours.
-S7_0011 Will you please confirm government policy regarding waste removal?
-S7_0012 The surplus shoes were sold at a discount price.
-S7_0013 Lori’s costume needed black gloves to be completely elegant.
-S7_0014 Bob papered over the living room murals.
-S7_0015 That noise problem grows more annoying each day.
-S7_0016 Right now may not be the best time for business mergers.
-S7_0017 That diagram makes sense only after much study.
-S7_0018 Gremlins is yet another exciting movie by Steven Spielberg.
-S7_0019 A boring novel is a superb sleeping pill.
-S7_0020 John cleans shellfish for a living.
-S7_0021 Growing well-kept gardens is very time consuming.
-S7_0022 Women may never become completely equal to men.
-S7_0023 She always jokes about too much garlic in his food.
-S7_0024 I just saw Jim near the new archeological museum.
-S7_0025 Pam gives driving lessons on Thursdays.
-S7_0026 Why charge money for such garbage?
-S7_0027 We welcome many new students each year.
-S7_0028 George is paranoid about a future gas shortage.
-S7_0029 The carpet cleaners shampooed our oriental rug.
-S7_0030 Please shorten this skirt for Joyce.
-S7_0031 His shoulder felt as if it were broken.
-S7_0032 Which church do the Smiths worship in?
-S7_0033 The giant redwoods shimmered in the glistening sun.
-S7_0034 Is she going with you?
-S7_0035 Her right hand aches whenever the barometric pressure changes.
-S7_0036 They own a big house in the remote countryside.
-S7_0037 He picked up nine pairs of socks for each brother.
-S7_0038 They all like long hot showers.
-S7_0039 A young mouse scampered across the field and disappeared.
-S7_0040 She uses both names interchangeably.
-S7_0041 Calcium makes bones and teeth strong.
-S7_0042 I took her word for it.
-S7_0043 The fish began to leap frantically on the surface of the small lake.
-S7_0044 Tim takes Sheila to see movies twice a week.
-S7_0045 Children can consume many fruit roll-ups in one sitting.
-S7_0046 They assume no burglar will ever enter here.
-S7_0047 Just drop notices in any suggestion box.
-S7_0048 The taxicab broke down and caused a traffic jam.
-S7_0049 We’ll serve rhubarb pie after Rachel’s talk.
-S7_0050 Her wardrobe consists of only skirts and blouses.
-S7_0051 Barb burned paper and leaves in a big bonfire.
-S7_0052 Of course you can have another tunafish sandwich.
-S7_0053 There was a gigantic wasp next to Irving’s big top hat.
-S7_0054 Laugh, dance, and sing if fortune smiles upon you.
-S7_0055 I’d ride the subway, but I haven’t enough change.
-S7_0056 Eating spinach nightly increases strength miraculously.
-S7_0057 People drink much water with horseradish relish.
-S7_0058 Butterscotch fudge goes well with vanilla ice cream.
-S7_0059 Gwen grows green beans in her vegetable garden.
-S7_0060 Daphne’s Swedish needlepoint scarf matched her skirt.
-S7_0061 I placed two texts before my eyes.
-S7_0062 The flesh will weigh five-sixths of that weight after death.
-S7_0063 Let the money unit contain eleven-twelfths of an ounce of pure silver.
-S7_0064 He waltzed into his enemies with a stick.
-S7_0065 He took out his cushion.
-S7_0066 We discussed the way of feeling.
-S7_0067 This vat belongs to me.
-S7_0068 John received a big boat for his reward.
-S7_0069 It is the time to pray in the afternoon.
-S7_0070 We have to prepare for clothing of the play.
-S7_0071 I touched the mouse in the play.
-S7_0072 Could you correct the answer sheets?
-S7_0073 John gave us a long explanation.
-S7_0074 We revised the original plan because of the lack of the budget.
-S7_0075 It was a shack.
-S7_0076 John tried to put his coat on the rock.
-S7_0077 The Thames is a vast river.
-S7_0078 in Japan
-S7_0079 into the house
-S7_0080 on Monday
-S7_0081 at the moment
-S7_0082 a letter
-S7_0083 I don’t know him personally.
-S7_0084 I don’t know him, personally.
-S7_0085 Did you study Nelson?
-S7_0086 Did you study, Nelson?
-S7_0087 The little girl behaved naturally.
-S7_0088 The little girl behaved, naturally.
-S7_0089 He drank, he stole, he was soon despised.
-S7_0090 You said he would come.
-S7_0091 How should I know?
-S7_0092 When I came, he greeted me warmly.
-S7_0093 Did you find my camera? Did you leave it in Edinburgh?
-S7_0094 You were informed of the fact on what day?
-S7_0095 Please give us your name first.
-S7_0096 My name is Emily.
-S7_0097 Could I have my drink now, please?
-S7_0098 Did John resign or retire?
-S7_0099 Did John resign or retire?
-S7_0100 That’s mine.
-S7_0101 Which is yours?
-S7_0102 What about Mary? Who did she come with?
-S7_0103 Mary came with Bill.
-S7_0104 What about Bill? Who came with him?
-S7_0105 Mary came with Bill.
-S7_0106 Is it John who writes poetry?
-S7_0107 No, it is Bill who writes poetry.
-S7_0108 She consoled the child.
-S7_0109 She consoled the weeping child.
-S7_0110 She consoled the weeping child in the park.
-S7_0111 She couldn’t console the weeping child in the park.
-S7_0112 He hit the man.
-S7_0113 He often hit the man.
-S7_0114 He often hit him in the stomach.
-S7_0115 He often hit him in the stomach in the evening.
-S7_0116 I think that it was his own idea.
-S7_0117 Peter apologized for his temper and his impatience.
-S7_0118 Please extend to her our sincere sympathies.
-S7_0119 Take care of him for me, won’t you?
-S7_0120 I’ll take him there tomorrow.
-S7_0121 I’ll take him to school tomorrow.
-S7_0122 I’ll take him to the concert tomorrow.
-S7_0123 I’ll take him to the recital the day after tomorrow.
+S7_001 Diane may splurge and buy a turquoise necklace.
+S7_002 The moisture in my eyes is from eyedrops, not from tears.
+S7_003 George seldom watches daytime movies.
+S7_004 The system may break down soon, so save your files frequently.
+S7_005 I assume moisture will damage this ship’s hull.
+S7_006 The speech symposium might begin on Monday.
+S7_007 The annoying raccoons slipped into Phil’s garden every night.
+S7_008 The cow wandered from the farmland and became lost.
+S7_009 Each untimely income loss coincided with the breakdown of a heating system part.
+S7_010 The gunman kept his victim cornered at gunpoint for three hours.
+S7_011 Will you please confirm government policy regarding waste removal?
+S7_012 The surplus shoes were sold at a discount price.
+S7_013 Lori’s costume needed black gloves to be completely elegant.
+S7_014 Bob papered over the living room murals.
+S7_015 That noise problem grows more annoying each day.
+S7_016 Right now may not be the best time for business mergers.
+S7_017 That diagram makes sense only after much study.
+S7_018 Gremlins is yet another exciting movie by Steven Spielberg.
+S7_019 A boring novel is a superb sleeping pill.
+S7_020 John cleans shellfish for a living.
+S7_021 Growing well-kept gardens is very time consuming.
+S7_022 Women may never become completely equal to men.
+S7_023 She always jokes about too much garlic in his food.
+S7_024 I just saw Jim near the new archeological museum.
+S7_025 Pam gives driving lessons on Thursdays.
+S7_026 Why charge money for such garbage?
+S7_027 We welcome many new students each year.
+S7_028 George is paranoid about a future gas shortage.
+S7_029 The carpet cleaners shampooed our oriental rug.
+S7_030 Please shorten this skirt for Joyce.
+S7_031 His shoulder felt as if it were broken.
+S7_032 Which church do the Smiths worship in?
+S7_033 The giant redwoods shimmered in the glistening sun.
+S7_034 Is she going with you?
+S7_035 Her right hand aches whenever the barometric pressure changes.
+S7_036 They own a big house in the remote countryside.
+S7_037 He picked up nine pairs of socks for each brother.
+S7_038 They all like long hot showers.
+S7_039 A young mouse scampered across the field and disappeared.
+S7_040 She uses both names interchangeably.
+S7_041 Calcium makes bones and teeth strong.
+S7_042 I took her word for it.
+S7_043 The fish began to leap frantically on the surface of the small lake.
+S7_044 Tim takes Sheila to see movies twice a week.
+S7_045 Children can consume many fruit roll-ups in one sitting.
+S7_046 They assume no burglar will ever enter here.
+S7_047 Just drop notices in any suggestion box.
+S7_048 The taxicab broke down and caused a traffic jam.
+S7_049 We’ll serve rhubarb pie after Rachel’s talk.
+S7_050 Her wardrobe consists of only skirts and blouses.
+S7_051 Barb burned paper and leaves in a big bonfire.
+S7_052 Of course you can have another tunafish sandwich.
+S7_053 There was a gigantic wasp next to Irving’s big top hat.
+S7_054 Laugh, dance, and sing if fortune smiles upon you.
+S7_055 I’d ride the subway, but I haven’t enough change.
+S7_056 Eating spinach nightly increases strength miraculously.
+S7_057 People drink much water with horseradish relish.
+S7_058 Butterscotch fudge goes well with vanilla ice cream.
+S7_059 Gwen grows green beans in her vegetable garden.
+S7_060 Daphne’s Swedish needlepoint scarf matched her skirt.
+S7_061 I placed two texts before my eyes.
+S7_062 The flesh will weigh five-sixths of that weight after death.
+S7_063 Let the money unit contain eleven-twelfths of an ounce of pure silver.
+S7_064 He waltzed into his enemies with a stick.
+S7_065 He took out his cushion.
+S7_066 We discussed the way of feeling.
+S7_067 This vat belongs to me.
+S7_068 John received a big boat for his reward.
+S7_069 It is the time to pray in the afternoon.
+S7_070 We have to prepare for clothing of the play.
+S7_071 I touched the mouse in the play.
+S7_072 Could you correct the answer sheets?
+S7_073 John gave us a long explanation.
+S7_074 We revised the original plan because of the lack of the budget.
+S7_075 It was a shack.
+S7_076 John tried to put his coat on the rock.
+S7_077 The Thames is a vast river.
+S7_078 in Japan
+S7_079 into the house
+S7_080 on Monday
+S7_081 at the moment
+S7_082 a letter
+S7_083 I don’t know him personally.
+S7_084 I don’t know him, personally.
+S7_085 Did you study Nelson?
+S7_086 Did you study, Nelson?
+S7_087 The little girl behaved naturally.
+S7_088 The little girl behaved, naturally.
+S7_089 He drank, he stole, he was soon despised.
+S7_090 You said he would come.
+S7_091 How should I know?
+S7_092 When I came, he greeted me warmly.
+S7_093 Did you find my camera? Did you leave it in Edinburgh?
+S7_094 You were informed of the fact on what day?
+S7_095 Please give us your name first.
+S7_096 My name is Emily.
+S7_097 Could I have my drink now, please?
+S7_098 Did John resign or retire?
+S7_099 Did John resign or retire?
+S7_100 That’s mine.
+S7_101 Which is yours?
+S7_102 What about Mary? Who did she come with?
+S7_103 Mary came with Bill.
+S7_104 What about Bill? Who came with him?
+S7_105 Mary came with Bill.
+S7_106 Is it John who writes poetry?
+S7_107 No, it is Bill who writes poetry.
+S7_108 She consoled the child.
+S7_109 She consoled the weeping child.
+S7_110 She consoled the weeping child in the park.
+S7_111 She couldn’t console the weeping child in the park.
+S7_112 He hit the man.
+S7_113 He often hit the man.
+S7_114 He often hit him in the stomach.
+S7_115 He often hit him in the stomach in the evening.
+S7_116 I think that it was his own idea.
+S7_117 Peter apologized for his temper and his impatience.
+S7_118 Please extend to her our sincere sympathies.
+S7_119 Take care of him for me, won’t you?
+S7_120 I’ll take him there tomorrow.
+S7_121 I’ll take him to school tomorrow.
+S7_122 I’ll take him to the concert tomorrow.
+S7_123 I’ll take him to the recital the day after tomorrow.

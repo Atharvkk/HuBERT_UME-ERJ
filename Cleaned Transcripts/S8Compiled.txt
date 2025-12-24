@@ -1,122 +1,122 @@
-S8_0001 Irish youngsters eat fresh kippers for breakfast.
-S8_0002 Move the garbage nearer to the large window.
-S8_0003 A huge power outage rarely occurs.
-S8_0004 Valley lodge yearly celebrates the first calf born.
-S8_0005 Iris thinks this zoo has eleven Spanish zebras.
-S8_0006 The football team coach has a watch as thin as a dime.
-S8_0007 Seamstresses attach zips with a thimble, needle, and thread.
-S8_0008 Those who teach values first abolish cheating.
-S8_0009 Once you finish greasing your chain, be sure to wash thoroughly.
-S8_0010 Smash lightbulbs and their cash value will diminish to nothing.
-S8_0011 Top zinnias rarely have crooked stems.
-S8_0012 Movies never have enough villains.
-S8_0013 A moth zig-zagged along the path through Otto’s garden.
-S8_0014 Every cab needs repainting often.
-S8_0015 A crab challenged me, but a quick stab vanquished him.
-S8_0016 A toothpaste tube should be squeezed from the bottom.
-S8_0017 Those who are not purists use canned vegetables when making stew.
-S8_0018 The fifth jar contains big, juicy peaches.
-S8_0019 Coffee is grown on steep, jungle-like slopes in temperate zones.
-S8_0020 The overweight charmer could slip poison into anyone’s tea.
-S8_0021 Each stag surely finds a big fawn.
-S8_0022 The rich should invest in black zircons instead of stylish shoes.
-S8_0023 Please sing just the club theme.
-S8_0024 They used an aggressive policeman to flag thoughtless motorists.
-S8_0025 Shell shock caused by shrapnel is sometimes cured through group therapy.
-S8_0026 That stinging vapor was caused by chloride vaporization.
-S8_0027 The advertising verse of Plymouth Variety Store never changes.
-S8_0028 Don’t look for cheap valuables in a bank vault.
-S8_0029 Suburban housewives often suffer from the gab habit.
-S8_0030 A lone star shone in the early evening sky.
-S8_0031 The toddler found a clamshell near the camp site.
-S8_0032 What is this large thing by the ironing board?
-S8_0033 Thomas thinks a larger clamp solves the problem.
-S8_0034 First add milk to the shredded cheese.
-S8_0035 Spherical gifts are difficult to wrap.
-S8_0036 Ralph prepared red snapper with fresh lemon sauce for dinner.
-S8_0037 Roy ignored the spurious data points in drawing the graph.
-S8_0038 The thick elm forest was nearly overwhelmed by Dutch Elm Disease.
-S8_0039 In developing film, many toxic chemicals are used.
-S8_0040 Which theatre shows "Mother Goose"?
-S8_0041 A few carriage lamps glimpsed among the trees like fireflies.
-S8_0042 No man attempts to seduce the truly honest woman.
-S8_0043 A diameter is only forty thousandths of an inch.
-S8_0044 The death wound is already given.
-S8_0045 John doesn’t want to fail it.
-S8_0046 The theater needs a wordy man.
-S8_0047 We are busy preparing for the shop’s fashion show.
-S8_0048 John will conduct the concert tomorrow.
-S8_0049 They need cars for their performance.
-S8_0050 Her chocolate cake tastes great.
-S8_0051 Mary needs a cab.
-S8_0052 John is a graduate student.
-S8_0053 Do you know this man in this photograph?
-S8_0054 We can hear the noise.
-S8_0055 Three Asians were arrested last night.
-S8_0056 John majored in education in his school.
-S8_0057 That caused her a lot of worry.
-S8_0058 an orange
-S8_0059 the story
-S8_0060 a little
-S8_0061 rather hot
-S8_0062 quickly enough
-S8_0063 He doesn’t know English practically.
-S8_0064 He doesn’t know English, practically.
-S8_0065 I don’t know Miss Brown.
-S8_0066 I don’t know, Miss Brown.
-S8_0067 The play ended happily.
-S8_0068 The play ended, happily.
-S8_0069 When I came, he greeted me warmly.
-S8_0070 What difference does it make?
-S8_0071 Who doesn’t know?
-S8_0072 I saw her this morning and invited her to dinner.
-S8_0073 I’m sure of it. I’ve heard it said many times.
-S8_0074 Yes. But did you see it yourself?
-S8_0075 When do we get to go home?
-S8_0076 Maybe we got the time wrong. Nobody else has shown up so far.
-S8_0077 John has arrived.
-S8_0078 How long have you been waiting?
-S8_0079 Could you lend me your wet suit?
-S8_0080 What do you need it for?
-S8_0081 Well, what about Fred? What did he do to the beans?
-S8_0082 Fred ate them.
-S8_0083 I know who cooked the beans. But then, who ate them?
-S8_0084 Fred ate the beans.
-S8_0085 I know what Fred cooked. But then, what did he eat?
-S8_0086 Fred ate the beans.
-S8_0087 Well, what about the beans? What did Fred do with them?
-S8_0088 Fred ate the beans.
-S8_0089 She’s in love with him.
-S8_0090 She’s fallen in love with him.
-S8_0091 She’s fallen in love with an artist.
-S8_0092 She’s fallen in love with an artist again.
-S8_0093 Elizabeth’s fallen in love with a French artist again.
-S8_0094 Betty cooks breakfast.
-S8_0095 Betty often cooks breakfast.
-S8_0096 Betty often cooks breakfast before seven.
-S8_0097 Betty often cooks breakfast before seven for her family.
-S8_0098 I’ll see what I can come up with.
-S8_0099 I was most grateful to him for his help and advice.
-S8_0100 The cat is loved by everyone.
-S8_0101 The train arrived at the station on time.
-S8_0102 A B C D
-S8_0103 A and B and C and D
-S8_0104 A and a B and a C and a D
-S8_0105 A and then a B and then a C and then a D
-S8_0106 Boys sell flowers.
-S8_0107 The boys will sell the flowers.
-S8_0108 The boys are selling some flowers.
-S8_0109 The boys have sold some of the flowers.
-S8_0110 The boys have been selling some of their flowers.
-S8_0111 I work at a company in Tokyo.
-S8_0112 I’ve eaten Mexican food several times.
-S8_0113 The cats will be chasing some rats.
-S8_0114 She was in a bad temper this morning.
-S8_0115 Let’s invite them to the party.
-S8_0116 Bill’s not sure if he can afford it.
-S8_0117 He told me that there was an accident.
-S8_0118 I really think that it was a very good idea.
-S8_0119 I think that it was his own idea.
-S8_0120 Peter apologized for his temper and his impatience.
-S8_0121 Please extend to her our sincere sympathies.
-S8_0122 Take care of him for me, won’t you?
+S8_001 Irish youngsters eat fresh kippers for breakfast.
+S8_002 Move the garbage nearer to the large window.
+S8_003 A huge power outage rarely occurs.
+S8_004 Valley lodge yearly celebrates the first calf born.
+S8_005 Iris thinks this zoo has eleven Spanish zebras.
+S8_006 The football team coach has a watch as thin as a dime.
+S8_007 Seamstresses attach zips with a thimble, needle, and thread.
+S8_008 Those who teach values first abolish cheating.
+S8_009 Once you finish greasing your chain, be sure to wash thoroughly.
+S8_010 Smash lightbulbs and their cash value will diminish to nothing.
+S8_011 Top zinnias rarely have crooked stems.
+S8_012 Movies never have enough villains.
+S8_013 A moth zig-zagged along the path through Otto’s garden.
+S8_014 Every cab needs repainting often.
+S8_015 A crab challenged me, but a quick stab vanquished him.
+S8_016 A toothpaste tube should be squeezed from the bottom.
+S8_017 Those who are not purists use canned vegetables when making stew.
+S8_018 The fifth jar contains big, juicy peaches.
+S8_019 Coffee is grown on steep, jungle-like slopes in temperate zones.
+S8_020 The overweight charmer could slip poison into anyone’s tea.
+S8_021 Each stag surely finds a big fawn.
+S8_022 The rich should invest in black zircons instead of stylish shoes.
+S8_023 Please sing just the club theme.
+S8_024 They used an aggressive policeman to flag thoughtless motorists.
+S8_025 Shell shock caused by shrapnel is sometimes cured through group therapy.
+S8_026 That stinging vapor was caused by chloride vaporization.
+S8_027 The advertising verse of Plymouth Variety Store never changes.
+S8_028 Don’t look for cheap valuables in a bank vault.
+S8_029 Suburban housewives often suffer from the gab habit.
+S8_030 A lone star shone in the early evening sky.
+S8_031 The toddler found a clamshell near the camp site.
+S8_032 What is this large thing by the ironing board?
+S8_033 Thomas thinks a larger clamp solves the problem.
+S8_034 First add milk to the shredded cheese.
+S8_035 Spherical gifts are difficult to wrap.
+S8_036 Ralph prepared red snapper with fresh lemon sauce for dinner.
+S8_037 Roy ignored the spurious data points in drawing the graph.
+S8_038 The thick elm forest was nearly overwhelmed by Dutch Elm Disease.
+S8_039 In developing film, many toxic chemicals are used.
+S8_040 Which theatre shows "Mother Goose"?
+S8_041 A few carriage lamps glimpsed among the trees like fireflies.
+S8_042 No man attempts to seduce the truly honest woman.
+S8_043 A diameter is only forty thousandths of an inch.
+S8_044 The death wound is already given.
+S8_045 John doesn’t want to fail it.
+S8_046 The theater needs a wordy man.
+S8_047 We are busy preparing for the shop’s fashion show.
+S8_048 John will conduct the concert tomorrow.
+S8_049 They need cars for their performance.
+S8_050 Her chocolate cake tastes great.
+S8_051 Mary needs a cab.
+S8_052 John is a graduate student.
+S8_053 Do you know this man in this photograph?
+S8_054 We can hear the noise.
+S8_055 Three Asians were arrested last night.
+S8_056 John majored in education in his school.
+S8_057 That caused her a lot of worry.
+S8_058 an orange
+S8_059 the story
+S8_060 a little
+S8_061 rather hot
+S8_062 quickly enough
+S8_063 He doesn’t know English practically.
+S8_064 He doesn’t know English, practically.
+S8_065 I don’t know Miss Brown.
+S8_066 I don’t know, Miss Brown.
+S8_067 The play ended happily.
+S8_068 The play ended, happily.
+S8_069 When I came, he greeted me warmly.
+S8_070 What difference does it make?
+S8_071 Who doesn’t know?
+S8_072 I saw her this morning and invited her to dinner.
+S8_073 I’m sure of it. I’ve heard it said many times.
+S8_074 Yes. But did you see it yourself?
+S8_075 When do we get to go home?
+S8_076 Maybe we got the time wrong. Nobody else has shown up so far.
+S8_077 John has arrived.
+S8_078 How long have you been waiting?
+S8_079 Could you lend me your wet suit?
+S8_080 What do you need it for?
+S8_081 Well, what about Fred? What did he do to the beans?
+S8_082 Fred ate them.
+S8_083 I know who cooked the beans. But then, who ate them?
+S8_084 Fred ate the beans.
+S8_085 I know what Fred cooked. But then, what did he eat?
+S8_086 Fred ate the beans.
+S8_087 Well, what about the beans? What did Fred do with them?
+S8_088 Fred ate the beans.
+S8_089 She’s in love with him.
+S8_090 She’s fallen in love with him.
+S8_091 She’s fallen in love with an artist.
+S8_092 She’s fallen in love with an artist again.
+S8_093 Elizabeth’s fallen in love with a French artist again.
+S8_094 Betty cooks breakfast.
+S8_095 Betty often cooks breakfast.
+S8_096 Betty often cooks breakfast before seven.
+S8_097 Betty often cooks breakfast before seven for her family.
+S8_098 I’ll see what I can come up with.
+S8_099 I was most grateful to him for his help and advice.
+S8_100 The cat is loved by everyone.
+S8_101 The train arrived at the station on time.
+S8_102 A B C D
+S8_103 A and B and C and D
+S8_104 A and a B and a C and a D
+S8_105 A and then a B and then a C and then a D
+S8_106 Boys sell flowers.
+S8_107 The boys will sell the flowers.
+S8_108 The boys are selling some flowers.
+S8_109 The boys have sold some of the flowers.
+S8_110 The boys have been selling some of their flowers.
+S8_111 I work at a company in Tokyo.
+S8_112 I’ve eaten Mexican food several times.
+S8_113 The cats will be chasing some rats.
+S8_114 She was in a bad temper this morning.
+S8_115 Let’s invite them to the party.
+S8_116 Bill’s not sure if he can afford it.
+S8_117 He told me that there was an accident.
+S8_118 I really think that it was a very good idea.
+S8_119 I think that it was his own idea.
+S8_120 Peter apologized for his temper and his impatience.
+S8_121 Please extend to her our sincere sympathies.
+S8_122 Take care of him for me, won’t you?
