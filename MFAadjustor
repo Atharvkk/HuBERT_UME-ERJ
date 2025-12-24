@@ -2,8 +2,8 @@
 
 import os
 
-transcript_file = r"Z:\FluentifyAI\CodeBase\Cleaned Transcripts\W4Compiled.txt" 
-output_dir = r"Z:\FluentifyAI\CodeBase\MFA Ready\W4"          
+transcript_file = r"Z:\FluentifyAI\CodeBase\Cleaned Transcripts\W5Compiled.txt" 
+output_dir = r"Z:\FluentifyAI\CodeBase\MFA Ready\W5"          
 
 os.makedirs(output_dir, exist_ok=True)
 

@@ -1,0 +1,24 @@
+- command: C:\Users\kulka\.conda\envs\aligner\Scripts\mfa align audio Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\dictionary\english_us_mfa.dict
+    Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+    mfa_output --clean --verbose
+  date: 2025-12-24 16:17:14.409936
+  exception: ''
+  execution_time: 46.918235778808594
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\kulka\.conda\envs\aligner\Scripts\mfa align audio Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\dictionary\english_us_mfa.dict
+    Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+    mfa_output --clean --verbose
+  date: 2025-12-24 16:30:10.985809
+  exception: ''
+  execution_time: 38.33126878738403
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\kulka\.conda\envs\aligner\Scripts\mfa align audio Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\dictionary\english_us_mfa.dict
+    Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+    mfa_output --clean --verbose
+  date: 2025-12-24 16:36:31.393973
+  exception: ''
+  execution_time: 44.388967752456665
+  exit_code: 0
+  version: 3.3.8

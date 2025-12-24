@@ -1,0 +1,1472 @@
+2025-12-24 16:17:22,016 - mfa - DEBUG - Beginning run for audio
+2025-12-24 16:17:22,016 - mfa - DEBUG - Using "global" profile
+2025-12-24 16:17:22,016 - mfa - DEBUG - Using multiprocessing with 3
+2025-12-24 16:17:22,016 - mfa - DEBUG - Set up logger for MFA version: 3.3.8
+2025-12-24 16:17:22,016 - mfa - DEBUG - Cleaned previous run
+2025-12-24 16:17:22,537 - mfa - DEBUG - There were some differences in the current run compared to the last one. This may cause issues, run with --clean, if you hit an error.
+2025-12-24 16:17:26,269 - mfa - DEBUG - Loaded dictionary in 3.694 seconds
+2025-12-24 16:17:26,270 - mfa - INFO - Setting up corpus information...
+2025-12-24 16:17:26,272 - mfa - DEBUG - Could not load from temp
+2025-12-24 16:17:26,273 - mfa - INFO - Loading corpus from source files...
+2025-12-24 16:17:29,310 - mfa - DEBUG - Processing queue: 0.09375
+2025-12-24 16:17:29,332 - mfa - DEBUG - Parsed corpus directory with 3 jobs in 0.109375 seconds
+2025-12-24 16:17:29,337 - mfa - INFO - Found 1 speaker across 348 files, average number of utterances per speaker: 348.0
+2025-12-24 16:17:29,338 - mfa - DEBUG - Loaded corpus in 3.069 seconds
+2025-12-24 16:17:29,339 - mfa - INFO - Initializing multiprocessing jobs...
+2025-12-24 16:17:29,340 - mfa - WARNING - Number of jobs was specified as 3, but due to only having 1 speakers, MFA will only use 1 jobs. Use the --single_speaker flag if you would like to split utterances across jobs regardless of their speaker.
+2025-12-24 16:17:29,352 - mfa - DEBUG - Initialized jobs in 0.014 seconds
+2025-12-24 16:17:29,458 - mfa - INFO - Normalizing text...
+2025-12-24 16:17:36,861 - mfa - DEBUG - Wrote lexicon information in 3.743 seconds
+2025-12-24 16:17:36,863 - mfa - INFO - Generating MFCCs...
+2025-12-24 16:17:50,257 - mfa - DEBUG - Generating MFCCs took 13.394 seconds
+2025-12-24 16:17:50,275 - mfa - INFO - Calculating CMVN...
+2025-12-24 16:17:50,339 - mfa - INFO - Generating final features...
+2025-12-24 16:17:51,468 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S6_056.wav
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Text: the new suburbanites worked hard on refurbishing their older home
+2025-12-24 16:17:51,468 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S6_019.wav
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:17:51,468 - mfa - DEBUG -     - Text: if people were more generous there would be no need for welfare
+2025-12-24 16:17:51,468 - mfa - WARNING - There were 2 utterances ignored due to an issue in feature generation, see the log file for full details or run `mfa validate` on the corpus.
+2025-12-24 16:17:51,470 - mfa - DEBUG - Generating final features took 1.130 seconds
+2025-12-24 16:17:51,474 - mfa - INFO - Creating corpus split...
+2025-12-24 16:17:52,493 - mfa - DEBUG - Generated features in 15.632 seconds
+2025-12-24 16:17:52,494 - mfa - DEBUG - Setting up corpus took 29.918 seconds
+2025-12-24 16:17:52,494 - mfa - DEBUG - 
+2025-12-24 16:17:52,494 - mfa - DEBUG - ====ACOUSTIC MODEL INFO====
+2025-12-24 16:17:52,494 - mfa - DEBUG - Acoustic model root directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\extracted_models\acoustic
+2025-12-24 16:17:52,494 - mfa - DEBUG - Acoustic model directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+2025-12-24 16:17:52,494 - mfa - DEBUG - Acoustic model meta path: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa\meta.json
+2025-12-24 16:17:52,494 - mfa - DEBUG - Acoustic model meta information:
+2025-12-24 16:17:52,501 - mfa - DEBUG - architecture: gmm-hmm
+dictionaries:
+  bracketed_word: '[bracketed]'
+  clitic_marker: ''''
+  default: default
+  laughter_word: '[laughter]'
+  names:
+  - default
+  - english_india_mfa
+  - english_nigeria_mfa
+  - english_uk_mfa
+  - english_us_mfa
+  - nonnative
+  oov_word: <unk>
+  position_dependent_phones: false
+  silence_word: <eps>
+  use_g2p: false
+features:
+  cepstral_lifter: 22
+  delta_pitch: 0.005
+  dither: 0.0001
+  energy_floor: 1.0
+  feature_type: mfcc
+  frame_length: 25
+  frame_shift: 10
+  high_frequency: 7800
+  low_frequency: 20
+  max_f0: 800
+  min_f0: 50
+  num_coefficients: 13
+  num_mel_bins: 23
+  penalty_factor: 0.1
+  preemphasis_coefficient: 0.97
+  sample_frequency: 16000
+  silence_weight: 0.0
+  snip_edges: false
+  splice_left_context: 3
+  splice_right_context: 3
+  use_energy: true
+  use_pitch: false
+  use_voicing: false
+  uses_cmvn: true
+  uses_deltas: false
+  uses_speaker_adaptation: true
+  uses_splices: true
+  uses_voiced: false
+final_non_silence_correction: 0.2966666666666667
+final_silence_correction: 0.99
+initial_silence_probability: 0.17
+language: unknown
+oov_phone: spn
+optional_silence_phone: sil
+phone_groups:
+  '0':
+  - kp
+  - p
+  - "p\u02B0"
+  - "p\u02B2"
+  - "p\u02B7"
+  '1':
+  - b
+  - "b\u02B2"
+  - "\u0261b"
+  '10':
+  - d
+  - "d\u02B2"
+  - "\u0256"
+  '11':
+  - "\u027E"
+  - "\u027E\u02B2"
+  '12':
+  - "t\u0283"
+  '13':
+  - "d\u0292"
+  '14':
+  - "\u0283"
+  '15':
+  - "\u0292"
+  '16':
+  - s
+  '17':
+  - z
+  '18':
+  - "\u0279"
+  '19':
+  - m
+  - "m\u0329"
+  '2':
+  - f
+  - "f\u02B2"
+  - "f\u02B7"
+  '20':
+  - "m\u02B2"
+  '21':
+  - "\u0271"
+  '22':
+  - n
+  - "n\u0329"
+  '23':
+  - "\u0272"
+  '24':
+  - "\u027E\u0303"
+  '25':
+  - "\u014B"
+  '26':
+  - l
+  '27':
+  - "\u026B"
+  - "\u026B\u0329"
+  '28':
+  - "\u028E"
+  '29':
+  - "\u025F"
+  - "\u025F\u02B7"
+  - "\u0261"
+  - "\u0261\u02B7"
+  '3':
+  - v
+  - "v\u02B2"
+  - "v\u02B7"
+  '30':
+  - c
+  - "c\u02B0"
+  - "c\u02B7"
+  '31':
+  - k
+  - "k\u02B0"
+  - "k\u02B7"
+  '32':
+  - "\xE7"
+  '33':
+  - h
+  '34':
+  - "\u0250"
+  - "\u0259"
+  '35':
+  - "\u025C"
+  - "\u025C\u02D0"
+  '36':
+  - "\u025A"
+  - "\u025D"
+  '37':
+  - "\u028A"
+  '38':
+  - "\u026A"
+  '39':
+  - "\u0251"
+  - "\u0251\u02D0"
+  '4':
+  - "\u03B8"
+  '40':
+  - "\u0252"
+  - "\u0252\u02D0"
+  - "\u0254"
+  '41':
+  - a
+  - "a\u02D0"
+  '42':
+  - "\xE6"
+  '43':
+  - aj
+  '44':
+  - aw
+  '45':
+  - i
+  - "i\u02D0"
+  '46':
+  - j
+  '47':
+  - "\u025B"
+  - "\u025B\u02D0"
+  '48':
+  - e
+  - ej
+  - "e\u02D0"
+  '49':
+  - "\u0289"
+  - "\u0289\u02D0"
+  '5':
+  - "t\u032A"
+  '50':
+  - u
+  - "u\u02D0"
+  '51':
+  - w
+  '52':
+  - "\u028B"
+  '53':
+  - "\u0254j"
+  '54':
+  - o
+  - ow
+  - "o\u02D0"
+  - "\u0259w"
+  '6':
+  - "\xF0"
+  '7':
+  - "d\u032A"
+  '8':
+  - t
+  - "t\u02B0"
+  - "t\u02B2"
+  - "t\u02B7"
+  - "\u0288"
+  - "\u0288\u02B2"
+  - "\u0288\u02B7"
+  '9':
+  - "\u0294"
+phone_mapping:
+  <eps>: 0
+  a: 3
+  aj: 4
+  aw: 5
+  "a\u02D0": 6
+  b: 7
+  "b\u02B2": 8
+  c: 9
+  "c\u02B0": 10
+  "c\u02B7": 11
+  d: 12
+  "d\u0292": 13
+  "d\u02B2": 14
+  "d\u032A": 15
+  e: 16
+  ej: 17
+  "e\u02D0": 18
+  f: 19
+  "f\u02B2": 20
+  "f\u02B7": 21
+  h: 22
+  i: 23
+  "i\u02D0": 24
+  j: 25
+  k: 26
+  kp: 27
+  "k\u02B0": 28
+  "k\u02B7": 29
+  l: 30
+  m: 31
+  "m\u02B2": 32
+  "m\u0329": 33
+  n: 34
+  "n\u0329": 35
+  o: 36
+  ow: 37
+  "o\u02D0": 38
+  p: 39
+  "p\u02B0": 40
+  "p\u02B2": 41
+  "p\u02B7": 42
+  s: 43
+  sil: 1
+  spn: 2
+  t: 44
+  "t\u0283": 45
+  "t\u02B0": 46
+  "t\u02B2": 47
+  "t\u02B7": 48
+  "t\u032A": 49
+  u: 50
+  "u\u02D0": 51
+  v: 52
+  "v\u02B2": 53
+  "v\u02B7": 54
+  w: 55
+  z: 56
+  "\xE6": 57
+  "\xE7": 58
+  "\xF0": 59
+  "\u014B": 60
+  "\u0250": 61
+  "\u0251": 62
+  "\u0251\u02D0": 63
+  "\u0252": 64
+  "\u0252\u02D0": 65
+  "\u0254": 66
+  "\u0254j": 67
+  "\u0256": 68
+  "\u0259": 69
+  "\u0259w": 70
+  "\u025A": 71
+  "\u025B": 72
+  "\u025B\u02D0": 73
+  "\u025C": 74
+  "\u025C\u02D0": 75
+  "\u025D": 76
+  "\u025F": 77
+  "\u025F\u02B7": 78
+  "\u0261": 79
+  "\u0261b": 80
+  "\u0261\u02B7": 81
+  "\u026A": 82
+  "\u026B": 83
+  "\u026B\u0329": 84
+  "\u0271": 85
+  "\u0272": 86
+  "\u0279": 87
+  "\u027E": 88
+  "\u027E\u02B2": 89
+  "\u027E\u0303": 90
+  "\u0283": 91
+  "\u0288": 92
+  "\u0288\u02B2": 93
+  "\u0288\u02B7": 94
+  "\u0289": 95
+  "\u0289\u02D0": 96
+  "\u028A": 97
+  "\u028B": 98
+  "\u028E": 99
+  "\u0292": 100
+  "\u0294": 101
+  "\u03B8": 102
+phone_set_type: UNKNOWN
+phone_type: triphone
+phones: !!set
+  a: null
+  aj: null
+  aw: null
+  "a\u02D0": null
+  b: null
+  "b\u02B2": null
+  c: null
+  "c\u02B0": null
+  "c\u02B7": null
+  d: null
+  "d\u0292": null
+  "d\u02B2": null
+  "d\u032A": null
+  e: null
+  ej: null
+  "e\u02D0": null
+  f: null
+  "f\u02B2": null
+  "f\u02B7": null
+  h: null
+  i: null
+  "i\u02D0": null
+  j: null
+  k: null
+  kp: null
+  "k\u02B0": null
+  "k\u02B7": null
+  l: null
+  m: null
+  "m\u02B2": null
+  "m\u0329": null
+  n: null
+  "n\u0329": null
+  o: null
+  ow: null
+  "o\u02D0": null
+  p: null
+  "p\u02B0": null
+  "p\u02B2": null
+  "p\u02B7": null
+  s: null
+  t: null
+  "t\u0283": null
+  "t\u02B0": null
+  "t\u02B2": null
+  "t\u02B7": null
+  "t\u032A": null
+  u: null
+  "u\u02D0": null
+  v: null
+  "v\u02B2": null
+  "v\u02B7": null
+  w: null
+  z: null
+  "\xE6": null
+  "\xE7": null
+  "\xF0": null
+  "\u014B": null
+  "\u0250": null
+  "\u0251": null
+  "\u0251\u02D0": null
+  "\u0252": null
+  "\u0252\u02D0": null
+  "\u0254": null
+  "\u0254j": null
+  "\u0256": null
+  "\u0259": null
+  "\u0259w": null
+  "\u025A": null
+  "\u025B": null
+  "\u025B\u02D0": null
+  "\u025C": null
+  "\u025C\u02D0": null
+  "\u025D": null
+  "\u025F": null
+  "\u025F\u02B7": null
+  "\u0261": null
+  "\u0261b": null
+  "\u0261\u02B7": null
+  "\u026A": null
+  "\u026B": null
+  "\u026B\u0329": null
+  "\u0271": null
+  "\u0272": null
+  "\u0279": null
+  "\u027E": null
+  "\u027E\u02B2": null
+  "\u027E\u0303": null
+  "\u0283": null
+  "\u0288": null
+  "\u0288\u02B2": null
+  "\u0288\u02B7": null
+  "\u0289": null
+  "\u0289\u02D0": null
+  "\u028A": null
+  "\u028B": null
+  "\u028E": null
+  "\u0292": null
+  "\u0294": null
+  "\u03B8": null
+silence_probability: 0.17
+train_date: '2024-06-12 12:16:18.584033'
+training:
+  audio_duration: 12862940.052134357
+  average_log_likelihood: -0.08382050453507844
+  num_oovs: 0
+  num_speakers: 75018
+  num_utterances: 2374755
+version: 3.1.0
+
+2025-12-24 16:17:52,501 - mfa - DEBUG - 
+2025-12-24 16:17:52,739 - mfa - DEBUG - Setup for alignment in 30.208 seconds
+2025-12-24 16:17:52,790 - mfa - INFO - Compiling training graphs...
+2025-12-24 16:17:53,805 - mfa - DEBUG - Compiling training graphs took 1.014 seconds
+2025-12-24 16:17:53,806 - mfa - INFO - Performing first-pass alignment...
+2025-12-24 16:17:53,807 - mfa - INFO - Generating alignments...
+2025-12-24 16:17:56,602 - mfa - DEBUG - Aligned 346, errors on 0, total 346
+2025-12-24 16:17:56,602 - mfa - DEBUG - Alignment round took 2.794 seconds
+2025-12-24 16:17:56,621 - mfa - INFO - Collecting phone and word alignments from alignment lattices...
+2025-12-24 16:17:58,849 - mfa - DEBUG - Bulk insert took 0.019 seconds
+2025-12-24 16:17:58,854 - mfa - DEBUG - Dropping temp tables took 0.005 seconds
+2025-12-24 16:17:58,860 - mfa - DEBUG - Collecting alignments took 2.239 seconds
+2025-12-24 16:17:58,863 - mfa - DEBUG - Generated alignments in 6.116 seconds
+2025-12-24 16:17:58,864 - mfa - INFO - Analyzing alignment quality...
+2025-12-24 16:18:01,094 - mfa - DEBUG - Analyzed alignment quality in 2.230 seconds
+2025-12-24 16:18:01,095 - mfa - INFO - Exporting alignment TextGrids to mfa_output...
+2025-12-24 16:18:01,118 - mfa - DEBUG - Not using multiprocessing for TextGrid export
+2025-12-24 16:18:01,268 - mfa - INFO - Finished exporting TextGrids to mfa_output!
+2025-12-24 16:18:01,268 - mfa - DEBUG - Exported TextGrids in a total of 0.152 seconds
+2025-12-24 16:18:01,271 - mfa - INFO - Done! Everything took 39.569 seconds
+2025-12-24 16:30:12,841 - mfa - DEBUG - Beginning run for audio
+2025-12-24 16:30:12,841 - mfa - DEBUG - Using "global" profile
+2025-12-24 16:30:12,841 - mfa - DEBUG - Using multiprocessing with 3
+2025-12-24 16:30:12,841 - mfa - DEBUG - Set up logger for MFA version: 3.3.8
+2025-12-24 16:30:12,841 - mfa - DEBUG - Cleaned previous run
+2025-12-24 16:30:13,076 - mfa - DEBUG - There were some differences in the current run compared to the last one. This may cause issues, run with --clean, if you hit an error.
+2025-12-24 16:30:16,933 - mfa - DEBUG - Loaded dictionary in 3.813 seconds
+2025-12-24 16:30:16,934 - mfa - INFO - Setting up corpus information...
+2025-12-24 16:30:16,936 - mfa - DEBUG - Could not load from temp
+2025-12-24 16:30:16,936 - mfa - INFO - Loading corpus from source files...
+2025-12-24 16:30:19,804 - mfa - DEBUG - Processing queue: 0.34375
+2025-12-24 16:30:19,837 - mfa - DEBUG - Parsed corpus directory with 3 jobs in 0.390625 seconds
+2025-12-24 16:30:19,843 - mfa - INFO - Found 1 speaker across 1041 files, average number of utterances per speaker: 1041.0
+2025-12-24 16:30:19,844 - mfa - DEBUG - Loaded corpus in 2.911 seconds
+2025-12-24 16:30:19,845 - mfa - INFO - Initializing multiprocessing jobs...
+2025-12-24 16:30:19,845 - mfa - WARNING - Number of jobs was specified as 3, but due to only having 1 speakers, MFA will only use 1 jobs. Use the --single_speaker flag if you would like to split utterances across jobs regardless of their speaker.
+2025-12-24 16:30:19,858 - mfa - DEBUG - Initialized jobs in 0.015 seconds
+2025-12-24 16:30:19,969 - mfa - INFO - Normalizing text...
+2025-12-24 16:30:27,481 - mfa - DEBUG - Wrote lexicon information in 3.786 seconds
+2025-12-24 16:30:27,483 - mfa - INFO - Generating MFCCs...
+2025-12-24 16:30:34,382 - mfa - DEBUG - Generating MFCCs took 6.898 seconds
+2025-12-24 16:30:34,407 - mfa - INFO - Calculating CMVN...
+2025-12-24 16:30:34,478 - mfa - INFO - Generating final features...
+2025-12-24 16:30:35,721 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S5_050.wav
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Text: rich purchased several signed lithographs
+2025-12-24 16:30:35,721 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S6_056.wav
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Text: the new suburbanites worked hard on refurbishing their older home
+2025-12-24 16:30:35,721 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S6_019.wav
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:30:35,721 - mfa - DEBUG -     - Text: if people were more generous there would be no need for welfare
+2025-12-24 16:30:35,722 - mfa - WARNING - There were 3 utterances ignored due to an issue in feature generation, see the log file for full details or run `mfa validate` on the corpus.
+2025-12-24 16:30:35,722 - mfa - DEBUG - Generating final features took 1.243 seconds
+2025-12-24 16:30:35,728 - mfa - INFO - Creating corpus split...
+2025-12-24 16:30:36,757 - mfa - DEBUG - Generated features in 9.276 seconds
+2025-12-24 16:30:36,758 - mfa - DEBUG - Setting up corpus took 23.638 seconds
+2025-12-24 16:30:36,758 - mfa - DEBUG - 
+2025-12-24 16:30:36,758 - mfa - DEBUG - ====ACOUSTIC MODEL INFO====
+2025-12-24 16:30:36,758 - mfa - DEBUG - Acoustic model root directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\extracted_models\acoustic
+2025-12-24 16:30:36,758 - mfa - DEBUG - Acoustic model directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+2025-12-24 16:30:36,758 - mfa - DEBUG - Acoustic model meta path: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa\meta.json
+2025-12-24 16:30:36,758 - mfa - DEBUG - Acoustic model meta information:
+2025-12-24 16:30:36,765 - mfa - DEBUG - architecture: gmm-hmm
+dictionaries:
+  bracketed_word: '[bracketed]'
+  clitic_marker: ''''
+  default: default
+  laughter_word: '[laughter]'
+  names:
+  - default
+  - english_india_mfa
+  - english_nigeria_mfa
+  - english_uk_mfa
+  - english_us_mfa
+  - nonnative
+  oov_word: <unk>
+  position_dependent_phones: false
+  silence_word: <eps>
+  use_g2p: false
+features:
+  cepstral_lifter: 22
+  delta_pitch: 0.005
+  dither: 0.0001
+  energy_floor: 1.0
+  feature_type: mfcc
+  frame_length: 25
+  frame_shift: 10
+  high_frequency: 7800
+  low_frequency: 20
+  max_f0: 800
+  min_f0: 50
+  num_coefficients: 13
+  num_mel_bins: 23
+  penalty_factor: 0.1
+  preemphasis_coefficient: 0.97
+  sample_frequency: 16000
+  silence_weight: 0.0
+  snip_edges: false
+  splice_left_context: 3
+  splice_right_context: 3
+  use_energy: true
+  use_pitch: false
+  use_voicing: false
+  uses_cmvn: true
+  uses_deltas: false
+  uses_speaker_adaptation: true
+  uses_splices: true
+  uses_voiced: false
+final_non_silence_correction: 0.2966666666666667
+final_silence_correction: 0.99
+initial_silence_probability: 0.17
+language: unknown
+oov_phone: spn
+optional_silence_phone: sil
+phone_groups:
+  '0':
+  - kp
+  - p
+  - "p\u02B0"
+  - "p\u02B2"
+  - "p\u02B7"
+  '1':
+  - b
+  - "b\u02B2"
+  - "\u0261b"
+  '10':
+  - d
+  - "d\u02B2"
+  - "\u0256"
+  '11':
+  - "\u027E"
+  - "\u027E\u02B2"
+  '12':
+  - "t\u0283"
+  '13':
+  - "d\u0292"
+  '14':
+  - "\u0283"
+  '15':
+  - "\u0292"
+  '16':
+  - s
+  '17':
+  - z
+  '18':
+  - "\u0279"
+  '19':
+  - m
+  - "m\u0329"
+  '2':
+  - f
+  - "f\u02B2"
+  - "f\u02B7"
+  '20':
+  - "m\u02B2"
+  '21':
+  - "\u0271"
+  '22':
+  - n
+  - "n\u0329"
+  '23':
+  - "\u0272"
+  '24':
+  - "\u027E\u0303"
+  '25':
+  - "\u014B"
+  '26':
+  - l
+  '27':
+  - "\u026B"
+  - "\u026B\u0329"
+  '28':
+  - "\u028E"
+  '29':
+  - "\u025F"
+  - "\u025F\u02B7"
+  - "\u0261"
+  - "\u0261\u02B7"
+  '3':
+  - v
+  - "v\u02B2"
+  - "v\u02B7"
+  '30':
+  - c
+  - "c\u02B0"
+  - "c\u02B7"
+  '31':
+  - k
+  - "k\u02B0"
+  - "k\u02B7"
+  '32':
+  - "\xE7"
+  '33':
+  - h
+  '34':
+  - "\u0250"
+  - "\u0259"
+  '35':
+  - "\u025C"
+  - "\u025C\u02D0"
+  '36':
+  - "\u025A"
+  - "\u025D"
+  '37':
+  - "\u028A"
+  '38':
+  - "\u026A"
+  '39':
+  - "\u0251"
+  - "\u0251\u02D0"
+  '4':
+  - "\u03B8"
+  '40':
+  - "\u0252"
+  - "\u0252\u02D0"
+  - "\u0254"
+  '41':
+  - a
+  - "a\u02D0"
+  '42':
+  - "\xE6"
+  '43':
+  - aj
+  '44':
+  - aw
+  '45':
+  - i
+  - "i\u02D0"
+  '46':
+  - j
+  '47':
+  - "\u025B"
+  - "\u025B\u02D0"
+  '48':
+  - e
+  - ej
+  - "e\u02D0"
+  '49':
+  - "\u0289"
+  - "\u0289\u02D0"
+  '5':
+  - "t\u032A"
+  '50':
+  - u
+  - "u\u02D0"
+  '51':
+  - w
+  '52':
+  - "\u028B"
+  '53':
+  - "\u0254j"
+  '54':
+  - o
+  - ow
+  - "o\u02D0"
+  - "\u0259w"
+  '6':
+  - "\xF0"
+  '7':
+  - "d\u032A"
+  '8':
+  - t
+  - "t\u02B0"
+  - "t\u02B2"
+  - "t\u02B7"
+  - "\u0288"
+  - "\u0288\u02B2"
+  - "\u0288\u02B7"
+  '9':
+  - "\u0294"
+phone_mapping:
+  <eps>: 0
+  a: 3
+  aj: 4
+  aw: 5
+  "a\u02D0": 6
+  b: 7
+  "b\u02B2": 8
+  c: 9
+  "c\u02B0": 10
+  "c\u02B7": 11
+  d: 12
+  "d\u0292": 13
+  "d\u02B2": 14
+  "d\u032A": 15
+  e: 16
+  ej: 17
+  "e\u02D0": 18
+  f: 19
+  "f\u02B2": 20
+  "f\u02B7": 21
+  h: 22
+  i: 23
+  "i\u02D0": 24
+  j: 25
+  k: 26
+  kp: 27
+  "k\u02B0": 28
+  "k\u02B7": 29
+  l: 30
+  m: 31
+  "m\u02B2": 32
+  "m\u0329": 33
+  n: 34
+  "n\u0329": 35
+  o: 36
+  ow: 37
+  "o\u02D0": 38
+  p: 39
+  "p\u02B0": 40
+  "p\u02B2": 41
+  "p\u02B7": 42
+  s: 43
+  sil: 1
+  spn: 2
+  t: 44
+  "t\u0283": 45
+  "t\u02B0": 46
+  "t\u02B2": 47
+  "t\u02B7": 48
+  "t\u032A": 49
+  u: 50
+  "u\u02D0": 51
+  v: 52
+  "v\u02B2": 53
+  "v\u02B7": 54
+  w: 55
+  z: 56
+  "\xE6": 57
+  "\xE7": 58
+  "\xF0": 59
+  "\u014B": 60
+  "\u0250": 61
+  "\u0251": 62
+  "\u0251\u02D0": 63
+  "\u0252": 64
+  "\u0252\u02D0": 65
+  "\u0254": 66
+  "\u0254j": 67
+  "\u0256": 68
+  "\u0259": 69
+  "\u0259w": 70
+  "\u025A": 71
+  "\u025B": 72
+  "\u025B\u02D0": 73
+  "\u025C": 74
+  "\u025C\u02D0": 75
+  "\u025D": 76
+  "\u025F": 77
+  "\u025F\u02B7": 78
+  "\u0261": 79
+  "\u0261b": 80
+  "\u0261\u02B7": 81
+  "\u026A": 82
+  "\u026B": 83
+  "\u026B\u0329": 84
+  "\u0271": 85
+  "\u0272": 86
+  "\u0279": 87
+  "\u027E": 88
+  "\u027E\u02B2": 89
+  "\u027E\u0303": 90
+  "\u0283": 91
+  "\u0288": 92
+  "\u0288\u02B2": 93
+  "\u0288\u02B7": 94
+  "\u0289": 95
+  "\u0289\u02D0": 96
+  "\u028A": 97
+  "\u028B": 98
+  "\u028E": 99
+  "\u0292": 100
+  "\u0294": 101
+  "\u03B8": 102
+phone_set_type: UNKNOWN
+phone_type: triphone
+phones: !!set
+  a: null
+  aj: null
+  aw: null
+  "a\u02D0": null
+  b: null
+  "b\u02B2": null
+  c: null
+  "c\u02B0": null
+  "c\u02B7": null
+  d: null
+  "d\u0292": null
+  "d\u02B2": null
+  "d\u032A": null
+  e: null
+  ej: null
+  "e\u02D0": null
+  f: null
+  "f\u02B2": null
+  "f\u02B7": null
+  h: null
+  i: null
+  "i\u02D0": null
+  j: null
+  k: null
+  kp: null
+  "k\u02B0": null
+  "k\u02B7": null
+  l: null
+  m: null
+  "m\u02B2": null
+  "m\u0329": null
+  n: null
+  "n\u0329": null
+  o: null
+  ow: null
+  "o\u02D0": null
+  p: null
+  "p\u02B0": null
+  "p\u02B2": null
+  "p\u02B7": null
+  s: null
+  t: null
+  "t\u0283": null
+  "t\u02B0": null
+  "t\u02B2": null
+  "t\u02B7": null
+  "t\u032A": null
+  u: null
+  "u\u02D0": null
+  v: null
+  "v\u02B2": null
+  "v\u02B7": null
+  w: null
+  z: null
+  "\xE6": null
+  "\xE7": null
+  "\xF0": null
+  "\u014B": null
+  "\u0250": null
+  "\u0251": null
+  "\u0251\u02D0": null
+  "\u0252": null
+  "\u0252\u02D0": null
+  "\u0254": null
+  "\u0254j": null
+  "\u0256": null
+  "\u0259": null
+  "\u0259w": null
+  "\u025A": null
+  "\u025B": null
+  "\u025B\u02D0": null
+  "\u025C": null
+  "\u025C\u02D0": null
+  "\u025D": null
+  "\u025F": null
+  "\u025F\u02B7": null
+  "\u0261": null
+  "\u0261b": null
+  "\u0261\u02B7": null
+  "\u026A": null
+  "\u026B": null
+  "\u026B\u0329": null
+  "\u0271": null
+  "\u0272": null
+  "\u0279": null
+  "\u027E": null
+  "\u027E\u02B2": null
+  "\u027E\u0303": null
+  "\u0283": null
+  "\u0288": null
+  "\u0288\u02B2": null
+  "\u0288\u02B7": null
+  "\u0289": null
+  "\u0289\u02D0": null
+  "\u028A": null
+  "\u028B": null
+  "\u028E": null
+  "\u0292": null
+  "\u0294": null
+  "\u03B8": null
+silence_probability: 0.17
+train_date: '2024-06-12 12:16:18.584033'
+training:
+  audio_duration: 12862940.052134357
+  average_log_likelihood: -0.08382050453507844
+  num_oovs: 0
+  num_speakers: 75018
+  num_utterances: 2374755
+version: 3.1.0
+
+2025-12-24 16:30:36,766 - mfa - DEBUG - 
+2025-12-24 16:30:37,013 - mfa - DEBUG - Setup for alignment in 23.944 seconds
+2025-12-24 16:30:37,069 - mfa - INFO - Compiling training graphs...
+2025-12-24 16:30:39,094 - mfa - DEBUG - Compiling training graphs took 2.025 seconds
+2025-12-24 16:30:39,095 - mfa - INFO - Performing first-pass alignment...
+2025-12-24 16:30:39,096 - mfa - INFO - Generating alignments...
+2025-12-24 16:30:44,499 - mfa - DEBUG - Aligned 1038, errors on 0, total 1038
+2025-12-24 16:30:44,500 - mfa - DEBUG - Alignment round took 5.403 seconds
+2025-12-24 16:30:44,524 - mfa - INFO - Collecting phone and word alignments from alignment lattices...
+2025-12-24 16:30:46,745 - mfa - DEBUG - Bulk insert took 0.053 seconds
+2025-12-24 16:30:46,749 - mfa - DEBUG - Dropping temp tables took 0.005 seconds
+2025-12-24 16:30:46,757 - mfa - DEBUG - Collecting alignments took 2.232 seconds
+2025-12-24 16:30:46,760 - mfa - DEBUG - Generated alignments in 9.737 seconds
+2025-12-24 16:30:46,760 - mfa - INFO - Analyzing alignment quality...
+2025-12-24 16:30:48,798 - mfa - DEBUG - Analyzed alignment quality in 2.037 seconds
+2025-12-24 16:30:48,799 - mfa - INFO - Exporting alignment TextGrids to mfa_output...
+2025-12-24 16:30:48,824 - mfa - DEBUG - Not using multiprocessing for TextGrid export
+2025-12-24 16:30:49,254 - mfa - INFO - Finished exporting TextGrids to mfa_output!
+2025-12-24 16:30:49,255 - mfa - DEBUG - Exported TextGrids in a total of 0.433 seconds
+2025-12-24 16:30:49,257 - mfa - INFO - Done! Everything took 37.752 seconds
+2025-12-24 16:36:32,174 - mfa - DEBUG - Beginning run for audio
+2025-12-24 16:36:32,174 - mfa - DEBUG - Using "global" profile
+2025-12-24 16:36:32,174 - mfa - DEBUG - Using multiprocessing with 3
+2025-12-24 16:36:32,174 - mfa - DEBUG - Set up logger for MFA version: 3.3.8
+2025-12-24 16:36:32,174 - mfa - DEBUG - Cleaned previous run
+2025-12-24 16:36:32,398 - mfa - DEBUG - There were some differences in the current run compared to the last one. This may cause issues, run with --clean, if you hit an error.
+2025-12-24 16:36:36,508 - mfa - DEBUG - Loaded dictionary in 4.070 seconds
+2025-12-24 16:36:36,508 - mfa - INFO - Setting up corpus information...
+2025-12-24 16:36:36,511 - mfa - DEBUG - Could not load from temp
+2025-12-24 16:36:36,511 - mfa - INFO - Loading corpus from source files...
+2025-12-24 16:36:40,600 - mfa - DEBUG - Processing queue: 0.59375
+2025-12-24 16:36:40,641 - mfa - DEBUG - Parsed corpus directory with 3 jobs in 0.640625 seconds
+2025-12-24 16:36:40,646 - mfa - INFO - Found 1 speaker across 1396 files, average number of utterances per speaker: 1396.0
+2025-12-24 16:36:40,646 - mfa - DEBUG - Loaded corpus in 4.139 seconds
+2025-12-24 16:36:40,648 - mfa - INFO - Initializing multiprocessing jobs...
+2025-12-24 16:36:40,649 - mfa - WARNING - Number of jobs was specified as 3, but due to only having 1 speakers, MFA will only use 1 jobs. Use the --single_speaker flag if you would like to split utterances across jobs regardless of their speaker.
+2025-12-24 16:36:40,662 - mfa - DEBUG - Initialized jobs in 0.015 seconds
+2025-12-24 16:36:40,778 - mfa - INFO - Normalizing text...
+2025-12-24 16:36:49,802 - mfa - DEBUG - Wrote lexicon information in 4.444 seconds
+2025-12-24 16:36:49,804 - mfa - INFO - Generating MFCCs...
+2025-12-24 16:36:57,709 - mfa - DEBUG - Generating MFCCs took 7.904 seconds
+2025-12-24 16:36:57,734 - mfa - INFO - Calculating CMVN...
+2025-12-24 16:36:57,830 - mfa - INFO - Generating final features...
+2025-12-24 16:36:59,162 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S8_087.wav
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Text: well what about the beans what did fred do with them
+2025-12-24 16:36:59,163 - mfa - DEBUG -   - Ignored File: Z:\FluentifyAI\CodeBase\Alignment\audio\S8_088.wav
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Speaker: audio
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Begin: 0.0
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - End: 0.0
+2025-12-24 16:36:59,163 - mfa - DEBUG -     - Text: fred ate the beans
+2025-12-24 16:36:59,163 - mfa - WARNING - There were 2 utterances ignored due to an issue in feature generation, see the log file for full details or run `mfa validate` on the corpus.
+2025-12-24 16:36:59,164 - mfa - DEBUG - Generating final features took 1.333 seconds
+2025-12-24 16:36:59,170 - mfa - INFO - Creating corpus split...
+2025-12-24 16:37:00,202 - mfa - DEBUG - Generated features in 10.400 seconds
+2025-12-24 16:37:00,202 - mfa - DEBUG - Setting up corpus took 27.764 seconds
+2025-12-24 16:37:00,202 - mfa - DEBUG - 
+2025-12-24 16:37:00,202 - mfa - DEBUG - ====ACOUSTIC MODEL INFO====
+2025-12-24 16:37:00,202 - mfa - DEBUG - Acoustic model root directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\extracted_models\acoustic
+2025-12-24 16:37:00,202 - mfa - DEBUG - Acoustic model directory: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa
+2025-12-24 16:37:00,202 - mfa - DEBUG - Acoustic model meta path: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\pretrained_models\acoustic\english_mfa\english_mfa\meta.json
+2025-12-24 16:37:00,202 - mfa - DEBUG - Acoustic model meta information:
+2025-12-24 16:37:00,209 - mfa - DEBUG - architecture: gmm-hmm
+dictionaries:
+  bracketed_word: '[bracketed]'
+  clitic_marker: ''''
+  default: default
+  laughter_word: '[laughter]'
+  names:
+  - default
+  - english_india_mfa
+  - english_nigeria_mfa
+  - english_uk_mfa
+  - english_us_mfa
+  - nonnative
+  oov_word: <unk>
+  position_dependent_phones: false
+  silence_word: <eps>
+  use_g2p: false
+features:
+  cepstral_lifter: 22
+  delta_pitch: 0.005
+  dither: 0.0001
+  energy_floor: 1.0
+  feature_type: mfcc
+  frame_length: 25
+  frame_shift: 10
+  high_frequency: 7800
+  low_frequency: 20
+  max_f0: 800
+  min_f0: 50
+  num_coefficients: 13
+  num_mel_bins: 23
+  penalty_factor: 0.1
+  preemphasis_coefficient: 0.97
+  sample_frequency: 16000
+  silence_weight: 0.0
+  snip_edges: false
+  splice_left_context: 3
+  splice_right_context: 3
+  use_energy: true
+  use_pitch: false
+  use_voicing: false
+  uses_cmvn: true
+  uses_deltas: false
+  uses_speaker_adaptation: true
+  uses_splices: true
+  uses_voiced: false
+final_non_silence_correction: 0.2966666666666667
+final_silence_correction: 0.99
+initial_silence_probability: 0.17
+language: unknown
+oov_phone: spn
+optional_silence_phone: sil
+phone_groups:
+  '0':
+  - kp
+  - p
+  - "p\u02B0"
+  - "p\u02B2"
+  - "p\u02B7"
+  '1':
+  - b
+  - "b\u02B2"
+  - "\u0261b"
+  '10':
+  - d
+  - "d\u02B2"
+  - "\u0256"
+  '11':
+  - "\u027E"
+  - "\u027E\u02B2"
+  '12':
+  - "t\u0283"
+  '13':
+  - "d\u0292"
+  '14':
+  - "\u0283"
+  '15':
+  - "\u0292"
+  '16':
+  - s
+  '17':
+  - z
+  '18':
+  - "\u0279"
+  '19':
+  - m
+  - "m\u0329"
+  '2':
+  - f
+  - "f\u02B2"
+  - "f\u02B7"
+  '20':
+  - "m\u02B2"
+  '21':
+  - "\u0271"
+  '22':
+  - n
+  - "n\u0329"
+  '23':
+  - "\u0272"
+  '24':
+  - "\u027E\u0303"
+  '25':
+  - "\u014B"
+  '26':
+  - l
+  '27':
+  - "\u026B"
+  - "\u026B\u0329"
+  '28':
+  - "\u028E"
+  '29':
+  - "\u025F"
+  - "\u025F\u02B7"
+  - "\u0261"
+  - "\u0261\u02B7"
+  '3':
+  - v
+  - "v\u02B2"
+  - "v\u02B7"
+  '30':
+  - c
+  - "c\u02B0"
+  - "c\u02B7"
+  '31':
+  - k
+  - "k\u02B0"
+  - "k\u02B7"
+  '32':
+  - "\xE7"
+  '33':
+  - h
+  '34':
+  - "\u0250"
+  - "\u0259"
+  '35':
+  - "\u025C"
+  - "\u025C\u02D0"
+  '36':
+  - "\u025A"
+  - "\u025D"
+  '37':
+  - "\u028A"
+  '38':
+  - "\u026A"
+  '39':
+  - "\u0251"
+  - "\u0251\u02D0"
+  '4':
+  - "\u03B8"
+  '40':
+  - "\u0252"
+  - "\u0252\u02D0"
+  - "\u0254"
+  '41':
+  - a
+  - "a\u02D0"
+  '42':
+  - "\xE6"
+  '43':
+  - aj
+  '44':
+  - aw
+  '45':
+  - i
+  - "i\u02D0"
+  '46':
+  - j
+  '47':
+  - "\u025B"
+  - "\u025B\u02D0"
+  '48':
+  - e
+  - ej
+  - "e\u02D0"
+  '49':
+  - "\u0289"
+  - "\u0289\u02D0"
+  '5':
+  - "t\u032A"
+  '50':
+  - u
+  - "u\u02D0"
+  '51':
+  - w
+  '52':
+  - "\u028B"
+  '53':
+  - "\u0254j"
+  '54':
+  - o
+  - ow
+  - "o\u02D0"
+  - "\u0259w"
+  '6':
+  - "\xF0"
+  '7':
+  - "d\u032A"
+  '8':
+  - t
+  - "t\u02B0"
+  - "t\u02B2"
+  - "t\u02B7"
+  - "\u0288"
+  - "\u0288\u02B2"
+  - "\u0288\u02B7"
+  '9':
+  - "\u0294"
+phone_mapping:
+  <eps>: 0
+  a: 3
+  aj: 4
+  aw: 5
+  "a\u02D0": 6
+  b: 7
+  "b\u02B2": 8
+  c: 9
+  "c\u02B0": 10
+  "c\u02B7": 11
+  d: 12
+  "d\u0292": 13
+  "d\u02B2": 14
+  "d\u032A": 15
+  e: 16
+  ej: 17
+  "e\u02D0": 18
+  f: 19
+  "f\u02B2": 20
+  "f\u02B7": 21
+  h: 22
+  i: 23
+  "i\u02D0": 24
+  j: 25
+  k: 26
+  kp: 27
+  "k\u02B0": 28
+  "k\u02B7": 29
+  l: 30
+  m: 31
+  "m\u02B2": 32
+  "m\u0329": 33
+  n: 34
+  "n\u0329": 35
+  o: 36
+  ow: 37
+  "o\u02D0": 38
+  p: 39
+  "p\u02B0": 40
+  "p\u02B2": 41
+  "p\u02B7": 42
+  s: 43
+  sil: 1
+  spn: 2
+  t: 44
+  "t\u0283": 45
+  "t\u02B0": 46
+  "t\u02B2": 47
+  "t\u02B7": 48
+  "t\u032A": 49
+  u: 50
+  "u\u02D0": 51
+  v: 52
+  "v\u02B2": 53
+  "v\u02B7": 54
+  w: 55
+  z: 56
+  "\xE6": 57
+  "\xE7": 58
+  "\xF0": 59
+  "\u014B": 60
+  "\u0250": 61
+  "\u0251": 62
+  "\u0251\u02D0": 63
+  "\u0252": 64
+  "\u0252\u02D0": 65
+  "\u0254": 66
+  "\u0254j": 67
+  "\u0256": 68
+  "\u0259": 69
+  "\u0259w": 70
+  "\u025A": 71
+  "\u025B": 72
+  "\u025B\u02D0": 73
+  "\u025C": 74
+  "\u025C\u02D0": 75
+  "\u025D": 76
+  "\u025F": 77
+  "\u025F\u02B7": 78
+  "\u0261": 79
+  "\u0261b": 80
+  "\u0261\u02B7": 81
+  "\u026A": 82
+  "\u026B": 83
+  "\u026B\u0329": 84
+  "\u0271": 85
+  "\u0272": 86
+  "\u0279": 87
+  "\u027E": 88
+  "\u027E\u02B2": 89
+  "\u027E\u0303": 90
+  "\u0283": 91
+  "\u0288": 92
+  "\u0288\u02B2": 93
+  "\u0288\u02B7": 94
+  "\u0289": 95
+  "\u0289\u02D0": 96
+  "\u028A": 97
+  "\u028B": 98
+  "\u028E": 99
+  "\u0292": 100
+  "\u0294": 101
+  "\u03B8": 102
+phone_set_type: UNKNOWN
+phone_type: triphone
+phones: !!set
+  a: null
+  aj: null
+  aw: null
+  "a\u02D0": null
+  b: null
+  "b\u02B2": null
+  c: null
+  "c\u02B0": null
+  "c\u02B7": null
+  d: null
+  "d\u0292": null
+  "d\u02B2": null
+  "d\u032A": null
+  e: null
+  ej: null
+  "e\u02D0": null
+  f: null
+  "f\u02B2": null
+  "f\u02B7": null
+  h: null
+  i: null
+  "i\u02D0": null
+  j: null
+  k: null
+  kp: null
+  "k\u02B0": null
+  "k\u02B7": null
+  l: null
+  m: null
+  "m\u02B2": null
+  "m\u0329": null
+  n: null
+  "n\u0329": null
+  o: null
+  ow: null
+  "o\u02D0": null
+  p: null
+  "p\u02B0": null
+  "p\u02B2": null
+  "p\u02B7": null
+  s: null
+  t: null
+  "t\u0283": null
+  "t\u02B0": null
+  "t\u02B2": null
+  "t\u02B7": null
+  "t\u032A": null
+  u: null
+  "u\u02D0": null
+  v: null
+  "v\u02B2": null
+  "v\u02B7": null
+  w: null
+  z: null
+  "\xE6": null
+  "\xE7": null
+  "\xF0": null
+  "\u014B": null
+  "\u0250": null
+  "\u0251": null
+  "\u0251\u02D0": null
+  "\u0252": null
+  "\u0252\u02D0": null
+  "\u0254": null
+  "\u0254j": null
+  "\u0256": null
+  "\u0259": null
+  "\u0259w": null
+  "\u025A": null
+  "\u025B": null
+  "\u025B\u02D0": null
+  "\u025C": null
+  "\u025C\u02D0": null
+  "\u025D": null
+  "\u025F": null
+  "\u025F\u02B7": null
+  "\u0261": null
+  "\u0261b": null
+  "\u0261\u02B7": null
+  "\u026A": null
+  "\u026B": null
+  "\u026B\u0329": null
+  "\u0271": null
+  "\u0272": null
+  "\u0279": null
+  "\u027E": null
+  "\u027E\u02B2": null
+  "\u027E\u0303": null
+  "\u0283": null
+  "\u0288": null
+  "\u0288\u02B2": null
+  "\u0288\u02B7": null
+  "\u0289": null
+  "\u0289\u02D0": null
+  "\u028A": null
+  "\u028B": null
+  "\u028E": null
+  "\u0292": null
+  "\u0294": null
+  "\u03B8": null
+silence_probability: 0.17
+train_date: '2024-06-12 12:16:18.584033'
+training:
+  audio_duration: 12862940.052134357
+  average_log_likelihood: -0.08382050453507844
+  num_oovs: 0
+  num_speakers: 75018
+  num_utterances: 2374755
+version: 3.1.0
+
+2025-12-24 16:37:00,209 - mfa - DEBUG - 
+2025-12-24 16:37:00,449 - mfa - DEBUG - Setup for alignment in 28.056 seconds
+2025-12-24 16:37:00,500 - mfa - INFO - Compiling training graphs...
+2025-12-24 16:37:02,510 - mfa - DEBUG - Compiling training graphs took 2.010 seconds
+2025-12-24 16:37:02,511 - mfa - INFO - Performing first-pass alignment...
+2025-12-24 16:37:02,512 - mfa - INFO - Generating alignments...
+2025-12-24 16:37:09,595 - mfa - DEBUG - Aligned 1394, errors on 0, total 1394
+2025-12-24 16:37:09,595 - mfa - DEBUG - Alignment round took 7.083 seconds
+2025-12-24 16:37:09,623 - mfa - INFO - Collecting phone and word alignments from alignment lattices...
+2025-12-24 16:37:12,234 - mfa - DEBUG - Bulk insert took 0.101 seconds
+2025-12-24 16:37:12,240 - mfa - DEBUG - Dropping temp tables took 0.006 seconds
+2025-12-24 16:37:12,256 - mfa - DEBUG - Collecting alignments took 2.632 seconds
+2025-12-24 16:37:12,262 - mfa - DEBUG - Generated alignments in 11.806 seconds
+2025-12-24 16:37:12,263 - mfa - INFO - Analyzing alignment quality...
+2025-12-24 16:37:14,877 - mfa - DEBUG - Analyzed alignment quality in 2.612 seconds
+2025-12-24 16:37:14,878 - mfa - INFO - Exporting alignment TextGrids to mfa_output...
+2025-12-24 16:37:14,911 - mfa - DEBUG - Not using multiprocessing for TextGrid export
+2025-12-24 16:37:15,643 - mfa - INFO - Finished exporting TextGrids to mfa_output!
+2025-12-24 16:37:15,643 - mfa - DEBUG - Exported TextGrids in a total of 0.738 seconds
+2025-12-24 16:37:15,647 - mfa - INFO - Done! Everything took 43.749 seconds

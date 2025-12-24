@@ -1,0 +1,4 @@
+2025-12-24 16:36:57,742 - kalpy.cmvn - INFO - Reading features from: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\audio\feats.scp
+2025-12-24 16:36:57,742 - kalpy.cmvn - INFO - Reading spk2utt from: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\audio\spk2utt.scp
+2025-12-24 16:36:57,773 - kalpy.cmvn - DEBUG - Writing to: ark,scp:Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\audio\cmvn.ark,Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\audio\cmvn.scp
+2025-12-24 16:36:57,774 - kalpy.cmvn - INFO - Processing speaker 1: 1396 utterances
