@@ -1,9 +1,0 @@
-2025-12-24 16:37:00,503 - kalpy.graphs - 32448 - 1 - DEBUG - Tree path: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\alignment\tree
-2025-12-24 16:37:00,503 - kalpy.graphs - 32448 - 1 - DEBUG - Model path: Z:\FluentifyAI\CodeBase\Alignment\mfa_temp\audio\alignment\final.alimdl
-2025-12-24 16:37:01,036 - kalpy.graphs - 32448 - 1 - DEBUG - Set up took 0.5318331718444824 seconds
-2025-12-24 16:37:01,037 - kalpy.graphs - 32448 - 1 - INFO - Compiling graphs for english_us_mfa
-2025-12-24 16:37:01,037 - kalpy.graphs - 32448 - 1 - DEBUG - DISAMBIGUATION: False
-2025-12-24 16:37:01,470 - kalpy.graphs - 32448 - 1 - DEBUG - Done 500 utterances, errors on 0.
-2025-12-24 16:37:01,902 - kalpy.graphs - 32448 - 1 - DEBUG - Done 1000 utterances, errors on 0.
-2025-12-24 16:37:02,207 - kalpy.graphs - 32448 - 1 - INFO - Done 1394 utterances, errors on 0.
-2025-12-24 16:37:02,207 - kalpy.graphs - 32448 - 1 - DEBUG - Total compilation time: 1.7027745246887207 seconds
