@@ -1,0 +1,122 @@
+S3_001 The misquote was retracted with an apology
+S3_002 The coyote, bobcat, and hyena are wild animals
+S3_003 Trespassing is forbidden and subject to penalty
+S3_004 Encyclopedias seldom present anecdotal evidence
+S3_005 A screwdriver is made from vodka and orange juice
+S3_006 Objects made of pewter are beautiful
+S3_007 Westchester is a county in New York
+S3_008 Artificial intelligence is for real
+S3_009 The emperor had a mean temper
+S3_010 Lots of foreign movies have subtitles
+S3_011 Angora cats are furrier than Siamese
+S3_012 He ate four extra eggs for breakfast
+S3_013 We plan to build a new beverage plant
+S3_014 Publicity and notoriety go hand in hand
+S3_015 Pizzerias are convenient for a quick lunch
+S3_016 December and January are nice months to spend in Miami
+S3_017 Technical writers can abbreviate in bibliographies
+S3_018 Scientific progress comes from the development of new techniques
+S3_019 Tradition requires parental approval for under-age marriage
+S3_020 The clumsy customer spilled some expensive perfume
+S3_021 The bungalow was pleasantly situated near the shore
+S3_022 Agricultural products are unevenly distributed
+S3_023 Pledge to participate in Nevada's aquatic competition
+S3_024 Which long article was opaque and needed clarification
+S3_025 The sound of Jennifer's bugle scared the antelope
+S3_026 The willowy woman wore a muskrat coat
+S3_027 Too much curiosity can get you into trouble
+S3_028 Cyclical programs will never compile
+S3_029 Correct execution of my instructions is crucial
+S3_030 Most precincts had a third of the votes counted
+S3_031 While waiting for Chipper she crisscrossed the square many times
+S3_032 Vietnamese cuisine is exquisite
+S3_033 The previous speaker presented ambiguous results
+S3_034 Mosquitoes exist in warm, humid climates
+S3_035 Scholastic aptitude is judged by standardized tests
+S3_036 Orange juice tastes funny after toothpaste
+S3_037 The water contained too much chlorine and stung his eyes
+S3_038 Our experiment's positive outcome was unexpected
+S3_039 Remove the splinter with a pair of tweezers
+S3_040 The drunkard is a social outcast
+S3_041 The government sought authorization of his citizenship
+S3_042 As coauthors, we presented our new book to the haughty audience
+S3_043 As a precaution, the outlaws bought gunpowder for their stronghold
+S3_044 Her auburn hair reminded him of autumn leaves
+S3_045 They remained lifelong friends and companions
+S3_046 Curiosity and mediocrity seldom coexist
+S3_047 The easy going zoologist relaxed throughout the voyage
+S3_048 Biologists use radioactive isotopes to study microorganisms
+S3_049 Employee layoffs coincided with the company's reorganization
+S3_050 Who took the kayak down the bayou
+S3_051 How would you evaluate this algebraic expression
+S3_052 The Mayan neoclassic scholar disappeared while surveying ancient ruins
+S3_053 The diagnosis was discouraging; however, he was not overly worried
+S3_054 The altruistic dowager helped many malnourished vagrants
+S3_055 The triumphant warrior exhibited naive heroism
+S3_056 Whoever cooperates in finding Nan's cameo will be rewarded
+S3_057 The haunted house was a hit due to outstanding audiovisual effects
+S3_058 Severe myopia contributed to Ron's inferiority complex
+S3_059 Buying a thoroughbred horse requires intuition and expertise
+S3_060 Does creole cooking use curry
+S3_061 He indulged in no jokes
+S3_062 Darkness that could almost be felt engulfed us
+S3_063 My folks were living in Kyoto
+S3_064 I walked several times up and down the street
+S3_065 He is driving along the road
+S3_066 I saw two birds flying above the tennis courts
+S3_067 A tea party will be held on the third of May
+S3_068 School begins at eight
+S3_069 He bought a jeep and a jet plane
+S3_070 Walking with a dog is a great pleasure for me
+S3_071 I have no leisure time
+S3_072 There are two birds in the cage
+S3_073 There are quite a few cars in the park
+S3_074 Dr Mansfield is unprepared
+S3_075 I caught a strange insect in the inmost part of the forest
+S3_076 Please come in!
+S3_077 in Japan
+S3_078 into the house
+S3_079 on Monday
+S3_080 at the moment
+S3_081 a letter
+S3_082 That's from my brother who lives in London
+S3_083 That's from my brother, who lives in London
+S3_084 The little girl behaved naturally
+S3_085 The little girl behaved, naturally
+S3_086 He doesn't know English practically
+S3_087 He doesn't know English, practically
+S3_088 I should go
+S3_089 Who knows
+S3_090 Cauliflower, broccoli, cabbage, sprouts, and onions
+S3_091 Cauliflower, broccoli, cabbage, sprouts, and onions
+S3_092 Maybe we got the time wrong Nobody else has shown up so far
+S3_093 John has arrived
+S3_094 How long have you been waiting
+S3_095 It's wonderful weather, isn't it
+S3_096 Could I have my drink now, please
+S3_097 I haven't seen you before, have I
+S3_098 What about Mary Who did she come with
+S3_099 Mary came with Bill
+S3_100 What about Bill Who came with him
+S3_101 Mary came with Bill
+S3_102 Is it John who writes poetry
+S3_103 No, it is Bill who writes poetry
+S3_104 I'm amused
+S3_105 I'm amused by the man
+S3_106 I'm amused by the man and his jokes
+S3_107 I'm amused by the man and his funny jokes
+S3_108 I'm amused by the man and his very funny jokes
+S3_109 I'll take him there tomorrow
+S3_110 I'll take him to school tomorrow
+S3_111 I'll take him to the concert tomorrow
+S3_112 I'll take him to the recital the day after tomorrow
+S3_113 Girls eat cookies
+S3_114 The girls eat the cookies
+S3_115 The girls are eating the cookies
+S3_116 The girls have eaten some cookies
+S3_117 The girls will have eaten some of the cookies
+S3_118 Tom will attend the meeting tomorrow
+S3_119 Kate is watching the news on television
+S3_120 The team was expected to win the game
+S3_121 I hope that my parents will enjoy the concert tonight
+S3_122 Even though the weather is bad, the festival will be held tomorrow

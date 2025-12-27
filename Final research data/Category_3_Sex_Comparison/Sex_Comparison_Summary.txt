@@ -1,0 +1,6 @@
+COMPARISON OF DEVIATION BY SEX
+==============================
+Male Avg Drift: 2.236328
+Female Avg Drift: 2.062500
+Difference (Male - Female): 0.173828
+Positive value indicates males deviate more from baseline.

@@ -1,24 +1,31 @@
-#File converts the Cleaned Transcripts to an MFA usable format
-
 import os
 
-transcript_file = r"Z:\FluentifyAI\CodeBase\Cleaned Transcripts\W5Compiled.txt" 
-output_dir = r"Z:\FluentifyAI\CodeBase\MFA Ready\W5"          
+# File converts the Cleaned Transcripts to an MFA usable format
+for s in range(1, 2):
 
-os.makedirs(output_dir, exist_ok=True)
+    transcript_file = r'Z:\FluentifyAI\CodeBase\Cleaned Transcripts\American\W_model.txt'
+    output_dir = r"Z:\FluentifyAI\CodeBase\MFA Ready\American\W_model"          
 
-with open(transcript_file, "r", encoding="utf-8") as f:
-    lines = f.readlines()
+    os.makedirs(output_dir, exist_ok=True)
 
-for line in lines:
-    if not line.strip():
+    if not os.path.exists(transcript_file):
+        print(f"Skipping: {transcript_file} not found.")
         continue
-    parts = line.strip().split(maxsplit=1)
-    if len(parts) != 2:
-        continue 
-    utterance_id, transcript = parts
 
-    transcript = transcript.lower().replace("?", "").replace(".", "").replace(",", "")
-    output_file = os.path.join(output_dir, f"{utterance_id}.txt")
-    with open(output_file, "w", encoding="utf-8") as out_f:
-        out_f.write(transcript + "\n")
+    with open(transcript_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        if not line.strip():
+            continue
+        
+        parts = line.strip().split(maxsplit=1)
+        if len(parts) != 2:
+            continue 
+            
+        utterance_id, transcript = parts        
+        output_file = os.path.join(output_dir, f"{utterance_id}.txt")
+        with open(output_file, "w", encoding="utf-8") as out_f:
+            out_f.write(transcript + "\n")
+            
+    print(f"Finished processing Speaker {s}")

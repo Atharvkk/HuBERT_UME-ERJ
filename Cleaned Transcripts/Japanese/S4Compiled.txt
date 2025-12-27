@@ -1,0 +1,123 @@
+S4_001 She encouraged her children to make their own Halloween costumes
+S4_002 We could barely see the fjords through the snow flurries
+S4_003 Almost all colleges are now coeducational
+S4_004 Rich looked for spotted hyenas and jaguars on the safari
+S4_005 Thick glue oozed out of the tube
+S4_006 They all enjoy ice cream sundaes
+S4_007 Why else would Danny allow others to go
+S4_008 The cat's meow always hurts my ears
+S4_009 Did you buy any corduroy overalls
+S4_010 Would a tomboy often play outdoors
+S4_011 They often go out in the evening
+S4_012 Who authorized the unlimited expense account
+S4_013 Destroy every file related to my audits
+S4_014 Serve the coleslaw after I add the oil
+S4_015 Withdraw all phony accusations at once
+S4_016 Straw hats are out of fashion this year
+S4_017 Why buy oil when you always use mine
+S4_018 They enjoy it when I audition
+S4_019 Would you allow acts of violence
+S4_020 How do oysters make pearls
+S4_021 Draw each graph on a new axis
+S4_022 Norwegian sweaters are made of lamb's wool
+S4_023 Young children should avoid exposure to contagious diseases
+S4_024 Ralph controlled the stopwatch from the bleachers
+S4_025 Approach your interview with statuesque composure
+S4_026 How much allowance do you get
+S4_027 The causeway ended abruptly at the shore
+S4_028 Even I occasionally get the Monday blues!
+S4_029 Military personnel are expected to obey government orders
+S4_030 When peeling an orange, it is hard not to spray juice
+S4_031 Do you hear the sleigh bells ringing
+S4_032 Rob sat by the pond and sketched the stray geese
+S4_033 Michael colored the bedroom wall with crayons
+S4_034 Jeff's toy go-cart never worked!
+S4_035 Only the best players enjoy popularity
+S4_036 I gave them several choices and let them set the priorities
+S4_037 The news agency hired a great journalist
+S4_038 The morning dew on the spider web glistened in the sun
+S4_039 The sermon emphasized the need for affirmative action
+S4_040 The small boy put the worm on the hook
+S4_041 How permanent are their records
+S4_042 Try to recall the events in chronological order
+S4_043 Nonprofit organizations have frequent fundraisers
+S4_044 The most recent geological survey found seismic activity
+S4_045 Cory attacked the project with extra determination
+S4_046 You always come up with pathological examples
+S4_047 Put the butcher block table in the garage
+S4_048 How good is your endurance
+S4_049 Keep the thermometer under your tongue!
+S4_050 Steph could barely handle the psychological trauma
+S4_051 It's healthier to cook without sugar
+S4_052 The viewpoint overlooked the ocean
+S4_053 Are you looking for employment
+S4_054 Allow leeway here
+S4_055 I honor my mum
+S4_056 His failure to open the store by eight cost him his job
+S4_057 Rationalize all errors
+S4_058 Highway and freeway mean the same thing
+S4_059 The paper boy bought two apples and three ices
+S4_060 I itemize all accounts in my agency
+S4_061 Bid me defend my realms with all my powers
+S4_062 Rhetorical persuasion helps a speaker to convince us
+S4_063 He had been repulsed by his own daughter
+S4_064 He'd beat up the men who welshed on you
+S4_065 Where were you born
+S4_066 Tom, come and take it
+S4_067 Shut the door and open the window
+S4_068 Put the pen aside and read the paper
+S4_069 It is quite comfortable here
+S4_070 I cannot read this map
+S4_071 Please sit on the mat
+S4_072 He is unable to speak
+S4_073 Is that a mob
+S4_074 Do you have a card
+S4_075 John is the name of my dog
+S4_076 I am going to church
+S4_077 an orange
+S4_078 the story
+S4_079 a little
+S4_080 rather hot
+S4_081 quickly enough
+S4_082 The superintendent says the teacher is a fool
+S4_083 The superintendent, says the teacher, is a fool
+S4_084 The play ended happily
+S4_085 The play ended, happily
+S4_086 Did you study Nelson
+S4_087 Did you study, Nelson
+S4_088 You said he would come
+S4_089 How should I know
+S4_090 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen There are fifteen
+S4_091 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen There are fifteen
+S4_092 Are legumes a good source of vitamins
+S4_093 A: Could you lend me your wet suit
+S4_094 B: What do you need it for
+S4_095 Wasn't it a marvelous concert!
+S4_096 Did you find my camera Did you leave it in Edinburgh
+S4_097 When do we get to go home
+S4_098 A: Well, what about Fred What did he do to the beans
+S4_099 B: Fred ate them
+S4_100 A: I know who cooked the beans But then, who ate them
+S4_101 B: Fred ate the beans
+S4_102 A: I know what Fred cooked But then, what did he eat
+S4_103 B: Fred ate the beans
+S4_104 A: Well, what about the beans What did Fred do with them
+S4_105 B: Fred ate the beans
+S4_106 I'll show you
+S4_107 I'll show you the photo
+S4_108 I'll show you the photo of my family
+S4_109 I'll show your younger sister the photo of my family
+S4_110 A B C D
+S4_111 A and B and C and D
+S4_112 A and a B and a C and a D
+S4_113 A and then a B and then a C and then a D
+S4_114 Boys sell flowers
+S4_115 The boys will sell the flowers
+S4_116 The boys are selling some flowers
+S4_117 The boys have sold some of the flowers
+S4_118 The boys have been selling some of their flowers
+S4_119 Who did you write the letter to
+S4_120 Peter was reading a magazine
+S4_121 Tom has studied French for five years
+S4_122 Look it up in the dictionary, and tell me its meaning
+S4_123 I know the man who is playing the guitar because he is a friend of my sister's

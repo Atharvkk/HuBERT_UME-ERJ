@@ -1,0 +1,123 @@
+S2_001 Chocolate and roses never fail as a romantic gift
+S2_002 Any contributions will be greatly appreciated
+S2_003 Continental drift is a geological theory
+S2_004 Regular attendance is seldom required
+S2_005 Challenge each general's intelligence
+S2_006 We got drenched from the uninterrupted rain
+S2_007 Last year's gas shortage caused steep price increases
+S2_008 Upgrade your status to reflect your wealth
+S2_009 Eat your raisins outdoors on the porch steps
+S2_010 Did you eat lunch yesterday
+S2_011 Porcupines resemble sea urchins
+S2_012 Spring Street is straight ahead
+S2_013 Cliff's display was misplaced on the screen
+S2_014 An official deadline cannot be postponed
+S2_015 Fill that canteen with fresh spring water
+S2_016 Gently place Jim's foam sculpture in the box
+S2_017 Bagpipes and bongos are musical instruments
+S2_018 Doctors prescribe drugs too freely
+S2_019 Will you please describe the idiotic predicament
+S2_020 It's illegal to postdate a check
+S2_021 It's impossible to deal with bureaucracy
+S2_022 Good service should be rewarded by big tips
+S2_023 My instructions desperately need updating
+S2_024 Cooperation along with understanding alleviate dispute
+S2_025 Cement is measured in cubic yards
+S2_026 Hispanic costumes are quite colorful
+S2_027 Primitive tribes have an upbeat attitude
+S2_028 Flying standby can be practical if you want to save money
+S2_029 It's hard to tell an original from a forgery
+S2_030 The Thinker is a famous sculpture
+S2_031 The misprint provoked an immediate disclaimer
+S2_032 A large household needs lots of appliances
+S2_033 Cut a small corner off each edge
+S2_034 Youngsters love corn candy as a treat
+S2_035 Iguanas and alligators are tropical reptiles
+S2_036 Masquerade parties tax one's imagination
+S2_037 Glucose and fructose are natural sugars found in fruit
+S2_038 Penguins live near the icy Antarctic
+S2_039 Guess the question from the answer
+S2_040 Medieval society was based on hierarchies
+S2_041 Project development was proceeding too slowly
+S2_042 Kindergarten children decorate their classrooms for all holidays
+S2_043 Special task forces rescue hostages from kidnappers
+S2_044 Call an ambulance for medical assistance
+S2_045 He stole a dime from a beggar
+S2_046 Few people live to be a hundred
+S2_047 You must explicitly delete files
+S2_048 A huge tapestry hung in her hallway
+S2_049 Birthday parties have cupcakes and ice cream
+S2_050 His scalp was blistered from today's hot sun
+S2_051 She slipped and sprained her ankle on the steep slope
+S2_052 The best way to learn is to solve extra problems
+S2_053 His sudden departure shocked the cast
+S2_054 Tugboats are capable of hauling huge loads
+S2_055 A muscular abdomen is good for your back
+S2_056 The cartoon features a muskrat and a tadpole
+S2_057 The emblem depicts the Acropolis all aglow
+S2_058 Clasp the screw in your left hand
+S2_059 The mango and the papaya are in a bowl
+S2_060 Combine all the ingredients in a large bowl
+S2_061 There is no sixth sense in addition to the five enumerated—sight, hearing, smell, taste, and touch
+S2_062 In the sixth century the business of bookmaking had fallen into hopeless decay
+S2_063 I was utterly squelched
+S2_064 It is man who yields to pleasure
+S2_065 The children are sitting on a muddy road
+S2_066 This snake is called "spotted adder"
+S2_067 The carpets brought from Brussels are missing
+S2_068 I see some mushrooms in all the dishes
+S2_069 They are running fast
+S2_070 His name is quite common
+S2_071 This top is a good spinner
+S2_072 Father is trimming the hedge
+S2_073 I like American food very much
+S2_074 Two large birds are bathing in the water
+S2_075 These flower-vases are quite expensive
+S2_076 This is thick and that is thin
+S2_077 get rid of them
+S2_078 take care of themselves
+S2_079 out of many
+S2_080 by taxi
+S2_081 with pleasure
+S2_082 Did you study Nelson
+S2_083 Did you study, Nelson
+S2_084 I don't know him personally
+S2_085 I don't know him, personally
+S2_086 The superintendent says the teacher is a fool
+S2_087 The superintendent, says the teacher, is a fool
+S2_088 I saw her this morning and invited her to dinner
+S2_089 How can I help it
+S2_090 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen There are fifteen
+S2_091 One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen There are fifteen
+S2_092 Please give us your name first
+S2_093 My name is Emily
+S2_094 Did John resign or retire
+S2_095 Did John resign or retire
+S2_096 She knows you, doesn't she
+S2_097 Have you locked the front door
+S2_098 It's wonderful weather, isn't it
+S2_099 Isn't it wonderful weather!
+S2_100 Well, what about Fred What did he do to the beans
+S2_101 Fred ate them
+S2_102 I know who cooked the beans But then, who ate them
+S2_103 Fred ate the beans
+S2_104 I know what Fred cooked But then, what did he eat
+S2_105 Fred ate the beans
+S2_106 Well, what about the beans What did Fred do with them
+S2_107 Fred ate the beans
+S2_108 Thank you
+S2_109 Thank you very much
+S2_110 Thank you very much for everything
+S2_111 Thank you very much for everything that you did for us
+S2_112 I think he wants it
+S2_113 I think he wants to leave
+S2_114 I think that he wants us to leave
+S2_115 I think that he wants Mary and Nancy to leave for school
+S2_116 Becky drank beer
+S2_117 Becky has drunk some beer
+S2_118 Becky will be drinking lots of beer
+S2_119 Becky will be cheerfully drinking lots of beer after the party
+S2_120 The cherry blossoms in the park will soon come out
+S2_121 My major is business administration
+S2_122 I will start work at nine and get off at six
+S2_123 I left my camera in the restaurant the day before yesterday
