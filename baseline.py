@@ -9,12 +9,10 @@ from transformers import Wav2Vec2FeatureExtractor, HubertModel
 from tqdm import tqdm
 from collections import defaultdict
 
-# --- CONFIGURATION ---
 MODEL_NAME = "facebook/hubert-base-ls960"
 LAYER_ID = 9
 SAMPLE_RATE = 16000
 
-# Mapping Genders to their respective paths
 DATA_MAP = {
     "JapaneseOverall": {
         "wav": r"Z:\FluentifyAI\CodeBase\Phoneme_Data\ALL\ALL\WAV",
@@ -29,10 +27,9 @@ DATA_MAP = {
 }
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-torch.backends.cudnn.benchmark = True # Optimized for your 4070
+torch.backends.cudnn.benchmark = True
 
 def load_model():
-    print(f"Loading HuBERT onto {DEVICE}...")
     processor = Wav2Vec2FeatureExtractor.from_pretrained(MODEL_NAME)
     model = HubertModel.from_pretrained(
         MODEL_NAME,
@@ -69,14 +66,10 @@ def process_gender_corpus(wav_dir, tg_dir, processor, model):
         filename = os.path.basename(wav_file).replace(".wav", "")
         if filename not in tg_map: continue
 
-        # --- PARSING THE FILENAME: S1_001_ISH_F05 ---
         parts = filename.split("_")
         if len(parts) < 4:
-            # Fallback if filename is malformed
             speaker_key = parts[-1] 
         else:
-            # Unique ID = University + Speaker (e.g., ISH_F05)
-            # This accounts for the fact that F05 is repeated across Universities
             speaker_key = f"{parts[2]}_{parts[3]}" 
 
         embeddings = get_hubert_features(wav_file, processor, model)
@@ -107,27 +100,21 @@ def process_gender_corpus(wav_dir, tg_dir, processor, model):
 
 def calculate_statistics(phoneme_pool, duration_pool):
     baseline = {}
-    print("\nCrunching Statistical Metrics...")
-
     for phone, speakers in phoneme_pool.items():
-        # 1. Gather every single instance for Global Stats
         all_vecs = [v for s_vecs in speakers.values() for v in s_vecs]
         X = np.stack(all_vecs)
         
-        # 2. Speaker-Level Normalization
-        # We calculate the mean for each unique ISH_F05, etc.
         speaker_means = np.stack([np.mean(v, axis=0) for v in speakers.values()])
         
-        # 3. Final Metrics
         baseline[phone] = {
-            "mu_global": X.mean(axis=0),               # Standard centroid
-            "mu_speaker_norm": speaker_means.mean(axis=0), # Centroid minus speaker-bias
-            "std_global": X.std(axis=0),               # Cluster spread
-            "inter_speaker_std": speaker_means.std(axis=0),# Variation between learners
-            "dur_mu": np.mean(duration_pool[phone]),    # Average timing
-            "dur_std": np.std(duration_pool[phone]),    # Timing variation
-            "token_count": X.shape[0],                 # N of samples
-            "speaker_count": len(speakers)             # N of unique people
+            "mu_global": X.mean(axis=0),
+            "mu_speaker_norm": speaker_means.mean(axis=0),
+            "std_global": X.std(axis=0),
+            "inter_speaker_std": speaker_means.std(axis=0),
+            "dur_mu": np.mean(duration_pool[phone]),
+            "dur_std": np.std(duration_pool[phone]),
+            "token_count": X.shape[0],
+            "speaker_count": len(speakers)
         }
     return baseline
 
