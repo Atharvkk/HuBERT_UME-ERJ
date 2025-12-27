@@ -6,9 +6,10 @@ import datetime
 import os
 import unicodedata
 
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-ROOT_OUTPUT = 'Final research data'
-BASE_SOURCE_PATH = r'Z:\FluentifyAI\CodeBase\Final_Data\\'
+ROOT_OUTPUT = os.path.join(ROOT_DIR, 'Final research data')
+BASE_SOURCE_PATH = os.path.join(ROOT_DIR, 'CodeBase', 'Final_Data')
 
 def get_cat_dir(cat_name):
     path = os.path.join(ROOT_OUTPUT, cat_name)

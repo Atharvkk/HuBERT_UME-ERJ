@@ -1,8 +1,10 @@
 import os
 import shutil
 
-src = r"Z:\FluentifyAI\CodeBase\Phoneme_Normalize\AE\FEMALE\textgrid"
-dst = r"Z:\FluentifyAI\CodeBase\Phoneme_Normalize\AE\MALE\textgrid"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+src = os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Normalize", "AE", "FEMALE", "textgrid")
+dst = os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Normalize", "AE", "MALE", "textgrid")
 
 os.makedirs(dst, exist_ok=True)
 

@@ -9,20 +9,22 @@ from transformers import Wav2Vec2FeatureExtractor, HubertModel
 from tqdm import tqdm
 from collections import defaultdict
 
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 MODEL_NAME = "facebook/hubert-base-ls960"
 LAYER_ID = 9
 SAMPLE_RATE = 16000
 
 DATA_MAP = {
     "JapaneseOverall": {
-        "wav": r"Z:\FluentifyAI\CodeBase\Phoneme_Data\ALL\ALL\WAV",
-        "tg": r"Z:\FluentifyAI\CodeBase\Phoneme_Data\ALL\ALL\textgrid",
-        "output": r"Z:\FluentifyAI\CodeBase\Final_Data\Japanese_composite.pkl"
+        "wav": os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Data", "ALL", "ALL", "WAV"),
+        "tg": os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Data", "ALL", "ALL", "textgrid"),
+        "output": os.path.join(ROOT_DIR, "CodeBase", "Final_Data", "Japanese_composite.pkl")
     },
     "AmericanOverall": {
-        "wav": r"Z:\FluentifyAI\CodeBase\Phoneme_Normalize\AE\ALL\WAV",
-        "tg": r"Z:\FluentifyAI\CodeBase\Phoneme_Normalize\AE\ALL\textgrid",
-        "output": r"Z:\FluentifyAI\CodeBase\Final_Data\American_composite.pkl"
+        "wav": os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Normalize", "AE", "ALL", "WAV"),
+        "tg": os.path.join(ROOT_DIR, "CodeBase", "Phoneme_Normalize", "AE", "ALL", "textgrid"),
+        "output": os.path.join(ROOT_DIR, "CodeBase", "Final_Data", "American_composite.pkl")
     }
 }
 

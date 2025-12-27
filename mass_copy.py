@@ -1,8 +1,10 @@
 import os
 import shutil
 
-source_folder = r"Z:\FluentifyAI\CodeBase\MFA Ready\American\All"
-je_base = r"Z:\FluentifyAI\dataset\UME-ERJ_3\wav"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+source_folder = os.path.join(ROOT_DIR, "CodeBase", "MFA Ready", "American", "All")
+je_base = os.path.join(ROOT_DIR, "dataset", "UME-ERJ_3", "wav")
 
 uni_folders = [os.path.join(je_base, d) for d in os.listdir(je_base)
                if os.path.isdir(os.path.join(je_base, d))]

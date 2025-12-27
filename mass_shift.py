@@ -1,8 +1,10 @@
 import os
 import shutil
 
-src_root = r"Z:\FluentifyAI\dataset\UME-ERJ_3\wav\AE"
-dst_root = r"Z:\FluentifyAI\CodeBase\Alignment\audio"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+src_root = os.path.join(ROOT_DIR, "dataset", "UME-ERJ_3", "wav", "AE")
+dst_root = os.path.join(ROOT_DIR, "CodeBase", "Alignment", "audio")
 
 os.makedirs(dst_root, exist_ok=True)
 

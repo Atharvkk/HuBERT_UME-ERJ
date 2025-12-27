@@ -1,7 +1,10 @@
 import pickle
 import numpy as np
+import os
 
-US_PKL = r'Z:\FluentifyAI\CodeBase\Final_Data\American_male_composite.pkl'
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+US_PKL = os.path.join(ROOT_DIR, "CodeBase", "Final_Data", "American_male_composite.pkl")
 
 with open(US_PKL, 'rb') as f:
     data = pickle.load(f)

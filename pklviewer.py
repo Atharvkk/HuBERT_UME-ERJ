@@ -1,6 +1,9 @@
 import pickle
+import os
 
-pkl_path = r"Z:\FluentifyAI\CodeBase\Final_Data\Japanese_female_composite.pkl"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+pkl_path = os.path.join(ROOT_DIR, "CodeBase", "Final_Data", "Japanese_female_composite.pkl")
 
 with open(pkl_path, "rb") as f:
     baseline = pickle.load(f)

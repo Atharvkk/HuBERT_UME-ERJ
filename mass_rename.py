@@ -1,6 +1,8 @@
 import os
 
-base_path = r"Z:\FluentifyAI\dataset\UME-ERJ_3\wav"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+base_path = os.path.join(ROOT_DIR, "dataset", "UME-ERJ_3", "wav")
 
 for root, dirs, files in os.walk(base_path):
     path_parts = os.path.normpath(root).split(os.sep)
