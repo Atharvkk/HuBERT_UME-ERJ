@@ -52,6 +52,6 @@ $$d_{eud}(a,b)=\sqrt{\sum_{i=1}^{n}(a_{i}-b_{i})^{2}}$$
 *  **Processing Speed**: HuBERT encoding performed at approximately 16.67 items per second.
 
 ## Availability & Licensing
-*  **Weights**: Final `.pkl` weights are included in this repository.
+*  **Weights**: Final `.pkl` weights are included in this repository under Final_Data.
 *  **License**: Standard **LGPL-2.1**.
 
