@@ -2,10 +2,10 @@
 
 [cite_start]By **Atharv Kulkarni** (Lead Researcher | System Architect), India International School in Japan[cite: 2].
 
-## 📄 Overview
+## Overview
 [cite_start]This research addresses the "shyness" or "fear" of mispronunciation that limits English proficiency in Japan[cite: 4, 10]. [cite_start]By using **Self-Supervised Speech Representations (SSSR)**, this study provides the first attempt to quantify specific phoneme-level deviations in Japanese-English (JE) speakers against an American English (AE) baseline[cite: 6].
 
-## 🛠️ Methodology & Pipeline
+## Methodology & Pipeline
 [cite_start]The evaluation pipeline integrates a bifurcated workflow to identify phonetic drift[cite: 119]:
 
 * [cite_start]**Data Alignment**: Utilizes the **Montreal Forced Aligner (MFA)** to identify phonemes and temporal boundaries in `.wav` files[cite: 75, 76].
@@ -21,14 +21,14 @@ $$d_{eud}(a,b)=\sqrt{\sum_{i=1}^{n}(a_{i}-b_{i})^{2}}$$
 
 ---
 
-## 📊 Dataset Specifications
+## Dataset Specifications
 [cite_start]The study utilizes the **UME-ERJ corpus**[cite: 19]:
 * [cite_start]**Non-Native Samples**: 69,888 usable data files from 202 Japanese volunteers[cite: 19].
 * [cite_start]**Native Baseline**: 17,055 samples from 20 American English speakers[cite: 20].
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 
 ### 1. High-Deviation Phonemes ($Drift \ge 3.0$)
@@ -51,7 +51,7 @@ $$d_{eud}(a,b)=\sqrt{\sum_{i=1}^{n}(a_{i}-b_{i})^{2}}$$
 * [cite_start]**Software Stack**: Python (Seaborn, Matplotlib, SciPy, Numpy)[cite: 86, 105].
 * [cite_start]**Processing Speed**: HuBERT encoding performed at approximately 16.67 items per second[cite: 108].
 
-## 📂 Availability & Licensing
+## Availability & Licensing
 * [cite_start]**Weights**: Final `.pkl` weights are included in tise repository[cite: 309].
 * [cite_start]**License**: Standard **LGPL-2.1**[cite: 309].
 
