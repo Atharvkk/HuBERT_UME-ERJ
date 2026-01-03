@@ -17,11 +17,3 @@ with open(f"S{x}Compiled.txt", "w", encoding="utf-8") as f:
     f.write(full_text)
 
 
-
-Z:\FluentifyAI\CodeBase>git fetch origin
-no such identity: C:/Users/USER/.ssh/DEPLOY_KEY_FILENAME: No such file or directory
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
